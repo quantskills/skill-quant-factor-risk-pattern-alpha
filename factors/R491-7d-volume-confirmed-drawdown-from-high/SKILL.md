@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R491
   category: Drawdown
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Volume Confirmed Drawdown From High

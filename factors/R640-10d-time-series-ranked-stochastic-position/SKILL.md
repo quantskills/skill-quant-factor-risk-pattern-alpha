@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R640
   category: Oscillator
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 10D Time-Series Ranked Stochastic Position

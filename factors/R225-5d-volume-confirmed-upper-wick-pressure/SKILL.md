@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R225
   category: Pattern
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Volume Confirmed Upper Wick Pressure

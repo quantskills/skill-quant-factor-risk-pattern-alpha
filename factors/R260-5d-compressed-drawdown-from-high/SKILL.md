@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R260
   category: Drawdown
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Compressed Drawdown From High

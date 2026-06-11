@@ -26,7 +26,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R011-5d-z-scored-rsi-strength"
+    "path": "factors/R011-5d-z-scored-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R012",
@@ -55,7 +57,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R012-5d-z-scored-rsi-reversal"
+    "path": "factors/R012-5d-z-scored-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R013",
@@ -84,7 +88,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R013-5d-z-scored-stochastic-position"
+    "path": "factors/R013-5d-z-scored-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R014",
@@ -113,7 +119,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R014-5d-z-scored-atr-ratio"
+    "path": "factors/R014-5d-z-scored-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R015",
@@ -142,7 +150,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R015-5d-z-scored-range-ratio"
+    "path": "factors/R015-5d-z-scored-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R016",
@@ -171,7 +181,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R016-5d-z-scored-realized-volatility"
+    "path": "factors/R016-5d-z-scored-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R017",
@@ -200,7 +212,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R017-5d-z-scored-downside-volatility"
+    "path": "factors/R017-5d-z-scored-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R025",
@@ -229,7 +243,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R025-5d-z-scored-gap-sum"
+    "path": "factors/R025-5d-z-scored-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R026",
@@ -258,7 +274,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R026-5d-z-scored-intraday-return"
+    "path": "factors/R026-5d-z-scored-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R027",
@@ -287,7 +305,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R027-5d-z-scored-upper-wick-pressure"
+    "path": "factors/R027-5d-z-scored-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R028",
@@ -316,7 +336,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R028-5d-z-scored-lower-wick-support"
+    "path": "factors/R028-5d-z-scored-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R029",
@@ -345,7 +367,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R029-5d-z-scored-drawdown-from-high"
+    "path": "factors/R029-5d-z-scored-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R044",
@@ -374,7 +398,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R044-5d-delta-rsi-strength"
+    "path": "factors/R044-5d-delta-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R045",
@@ -403,7 +429,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R045-5d-delta-rsi-reversal"
+    "path": "factors/R045-5d-delta-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R046",
@@ -432,7 +460,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R046-5d-delta-stochastic-position"
+    "path": "factors/R046-5d-delta-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R047",
@@ -461,7 +491,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R047-5d-delta-atr-ratio"
+    "path": "factors/R047-5d-delta-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R048",
@@ -490,7 +522,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R048-5d-delta-range-ratio"
+    "path": "factors/R048-5d-delta-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R049",
@@ -519,7 +553,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R049-5d-delta-realized-volatility"
+    "path": "factors/R049-5d-delta-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R050",
@@ -548,7 +584,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R050-5d-delta-downside-volatility"
+    "path": "factors/R050-5d-delta-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R058",
@@ -577,7 +615,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R058-5d-delta-gap-sum"
+    "path": "factors/R058-5d-delta-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R059",
@@ -606,7 +646,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R059-5d-delta-intraday-return"
+    "path": "factors/R059-5d-delta-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R060",
@@ -635,7 +677,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R060-5d-delta-upper-wick-pressure"
+    "path": "factors/R060-5d-delta-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R061",
@@ -664,7 +708,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R061-5d-delta-lower-wick-support"
+    "path": "factors/R061-5d-delta-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R062",
@@ -693,7 +739,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R062-5d-delta-drawdown-from-high"
+    "path": "factors/R062-5d-delta-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R077",
@@ -722,7 +770,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R077-5d-smoothed-rsi-strength"
+    "path": "factors/R077-5d-smoothed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R078",
@@ -751,7 +801,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R078-5d-smoothed-rsi-reversal"
+    "path": "factors/R078-5d-smoothed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R079",
@@ -780,7 +832,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R079-5d-smoothed-stochastic-position"
+    "path": "factors/R079-5d-smoothed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R080",
@@ -809,7 +863,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R080-5d-smoothed-atr-ratio"
+    "path": "factors/R080-5d-smoothed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R081",
@@ -838,7 +894,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R081-5d-smoothed-range-ratio"
+    "path": "factors/R081-5d-smoothed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R082",
@@ -867,7 +925,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R082-5d-smoothed-realized-volatility"
+    "path": "factors/R082-5d-smoothed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R083",
@@ -896,7 +956,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R083-5d-smoothed-downside-volatility"
+    "path": "factors/R083-5d-smoothed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R091",
@@ -925,7 +987,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R091-5d-smoothed-gap-sum"
+    "path": "factors/R091-5d-smoothed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R092",
@@ -954,7 +1018,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R092-5d-smoothed-intraday-return"
+    "path": "factors/R092-5d-smoothed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R093",
@@ -983,7 +1049,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R093-5d-smoothed-upper-wick-pressure"
+    "path": "factors/R093-5d-smoothed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R094",
@@ -1012,7 +1080,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R094-5d-smoothed-lower-wick-support"
+    "path": "factors/R094-5d-smoothed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R095",
@@ -1041,7 +1111,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R095-5d-smoothed-drawdown-from-high"
+    "path": "factors/R095-5d-smoothed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R110",
@@ -1070,7 +1142,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R110-5d-time-series-ranked-rsi-strength"
+    "path": "factors/R110-5d-time-series-ranked-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R111",
@@ -1099,7 +1173,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R111-5d-time-series-ranked-rsi-reversal"
+    "path": "factors/R111-5d-time-series-ranked-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R112",
@@ -1128,7 +1204,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R112-5d-time-series-ranked-stochastic-position"
+    "path": "factors/R112-5d-time-series-ranked-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R113",
@@ -1157,7 +1235,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R113-5d-time-series-ranked-atr-ratio"
+    "path": "factors/R113-5d-time-series-ranked-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R114",
@@ -1186,7 +1266,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R114-5d-time-series-ranked-range-ratio"
+    "path": "factors/R114-5d-time-series-ranked-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R115",
@@ -1215,7 +1297,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R115-5d-time-series-ranked-realized-volatility"
+    "path": "factors/R115-5d-time-series-ranked-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R116",
@@ -1244,7 +1328,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R116-5d-time-series-ranked-downside-volatility"
+    "path": "factors/R116-5d-time-series-ranked-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R124",
@@ -1273,7 +1359,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R124-5d-time-series-ranked-gap-sum"
+    "path": "factors/R124-5d-time-series-ranked-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R125",
@@ -1302,7 +1390,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R125-5d-time-series-ranked-intraday-return"
+    "path": "factors/R125-5d-time-series-ranked-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R126",
@@ -1331,7 +1421,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R126-5d-time-series-ranked-upper-wick-pressure"
+    "path": "factors/R126-5d-time-series-ranked-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R127",
@@ -1360,7 +1452,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R127-5d-time-series-ranked-lower-wick-support"
+    "path": "factors/R127-5d-time-series-ranked-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R128",
@@ -1389,7 +1483,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R128-5d-time-series-ranked-drawdown-from-high"
+    "path": "factors/R128-5d-time-series-ranked-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R143",
@@ -1418,7 +1514,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R143-5d-volatility-scaled-rsi-strength"
+    "path": "factors/R143-5d-volatility-scaled-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R144",
@@ -1447,7 +1545,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R144-5d-volatility-scaled-rsi-reversal"
+    "path": "factors/R144-5d-volatility-scaled-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R145",
@@ -1476,7 +1576,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R145-5d-volatility-scaled-stochastic-position"
+    "path": "factors/R145-5d-volatility-scaled-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R146",
@@ -1505,7 +1607,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R146-5d-volatility-scaled-atr-ratio"
+    "path": "factors/R146-5d-volatility-scaled-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R147",
@@ -1534,7 +1638,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R147-5d-volatility-scaled-range-ratio"
+    "path": "factors/R147-5d-volatility-scaled-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R148",
@@ -1563,7 +1669,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R148-5d-volatility-scaled-realized-volatility"
+    "path": "factors/R148-5d-volatility-scaled-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R149",
@@ -1592,7 +1700,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R149-5d-volatility-scaled-downside-volatility"
+    "path": "factors/R149-5d-volatility-scaled-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R157",
@@ -1621,7 +1731,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R157-5d-volatility-scaled-gap-sum"
+    "path": "factors/R157-5d-volatility-scaled-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R158",
@@ -1650,7 +1762,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R158-5d-volatility-scaled-intraday-return"
+    "path": "factors/R158-5d-volatility-scaled-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R159",
@@ -1679,7 +1793,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R159-5d-volatility-scaled-upper-wick-pressure"
+    "path": "factors/R159-5d-volatility-scaled-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R160",
@@ -1708,7 +1824,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R160-5d-volatility-scaled-lower-wick-support"
+    "path": "factors/R160-5d-volatility-scaled-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R161",
@@ -1737,7 +1855,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R161-5d-volatility-scaled-drawdown-from-high"
+    "path": "factors/R161-5d-volatility-scaled-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R176",
@@ -1766,7 +1886,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R176-5d-stability-scaled-rsi-strength"
+    "path": "factors/R176-5d-stability-scaled-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R177",
@@ -1795,7 +1917,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R177-5d-stability-scaled-rsi-reversal"
+    "path": "factors/R177-5d-stability-scaled-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R178",
@@ -1824,7 +1948,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R178-5d-stability-scaled-stochastic-position"
+    "path": "factors/R178-5d-stability-scaled-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R179",
@@ -1853,7 +1979,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R179-5d-stability-scaled-atr-ratio"
+    "path": "factors/R179-5d-stability-scaled-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R180",
@@ -1882,7 +2010,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R180-5d-stability-scaled-range-ratio"
+    "path": "factors/R180-5d-stability-scaled-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R181",
@@ -1911,7 +2041,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R181-5d-stability-scaled-realized-volatility"
+    "path": "factors/R181-5d-stability-scaled-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R182",
@@ -1940,7 +2072,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R182-5d-stability-scaled-downside-volatility"
+    "path": "factors/R182-5d-stability-scaled-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R190",
@@ -1969,7 +2103,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R190-5d-stability-scaled-gap-sum"
+    "path": "factors/R190-5d-stability-scaled-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R191",
@@ -1998,7 +2134,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R191-5d-stability-scaled-intraday-return"
+    "path": "factors/R191-5d-stability-scaled-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R192",
@@ -2027,7 +2165,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R192-5d-stability-scaled-upper-wick-pressure"
+    "path": "factors/R192-5d-stability-scaled-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R193",
@@ -2056,7 +2196,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R193-5d-stability-scaled-lower-wick-support"
+    "path": "factors/R193-5d-stability-scaled-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R194",
@@ -2085,7 +2227,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R194-5d-stability-scaled-drawdown-from-high"
+    "path": "factors/R194-5d-stability-scaled-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R209",
@@ -2114,7 +2258,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R209-5d-volume-confirmed-rsi-strength"
+    "path": "factors/R209-5d-volume-confirmed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R210",
@@ -2143,7 +2289,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R210-5d-volume-confirmed-rsi-reversal"
+    "path": "factors/R210-5d-volume-confirmed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R211",
@@ -2172,7 +2320,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R211-5d-volume-confirmed-stochastic-position"
+    "path": "factors/R211-5d-volume-confirmed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R212",
@@ -2201,7 +2351,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R212-5d-volume-confirmed-atr-ratio"
+    "path": "factors/R212-5d-volume-confirmed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R213",
@@ -2230,7 +2382,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R213-5d-volume-confirmed-range-ratio"
+    "path": "factors/R213-5d-volume-confirmed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R214",
@@ -2259,7 +2413,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R214-5d-volume-confirmed-realized-volatility"
+    "path": "factors/R214-5d-volume-confirmed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R215",
@@ -2288,7 +2444,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R215-5d-volume-confirmed-downside-volatility"
+    "path": "factors/R215-5d-volume-confirmed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R223",
@@ -2317,7 +2475,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R223-5d-volume-confirmed-gap-sum"
+    "path": "factors/R223-5d-volume-confirmed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R224",
@@ -2346,7 +2506,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R224-5d-volume-confirmed-intraday-return"
+    "path": "factors/R224-5d-volume-confirmed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R225",
@@ -2375,7 +2537,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R225-5d-volume-confirmed-upper-wick-pressure"
+    "path": "factors/R225-5d-volume-confirmed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R226",
@@ -2404,7 +2568,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R226-5d-volume-confirmed-lower-wick-support"
+    "path": "factors/R226-5d-volume-confirmed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R227",
@@ -2433,7 +2599,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R227-5d-volume-confirmed-drawdown-from-high"
+    "path": "factors/R227-5d-volume-confirmed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R242",
@@ -2462,7 +2630,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R242-5d-compressed-rsi-strength"
+    "path": "factors/R242-5d-compressed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R243",
@@ -2491,7 +2661,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R243-5d-compressed-rsi-reversal"
+    "path": "factors/R243-5d-compressed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R244",
@@ -2520,7 +2692,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R244-5d-compressed-stochastic-position"
+    "path": "factors/R244-5d-compressed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R245",
@@ -2549,7 +2723,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R245-5d-compressed-atr-ratio"
+    "path": "factors/R245-5d-compressed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R246",
@@ -2578,7 +2754,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R246-5d-compressed-range-ratio"
+    "path": "factors/R246-5d-compressed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R247",
@@ -2607,7 +2785,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R247-5d-compressed-realized-volatility"
+    "path": "factors/R247-5d-compressed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R248",
@@ -2636,7 +2816,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R248-5d-compressed-downside-volatility"
+    "path": "factors/R248-5d-compressed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R256",
@@ -2665,7 +2847,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R256-5d-compressed-gap-sum"
+    "path": "factors/R256-5d-compressed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R257",
@@ -2694,7 +2878,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R257-5d-compressed-intraday-return"
+    "path": "factors/R257-5d-compressed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R258",
@@ -2723,7 +2909,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R258-5d-compressed-upper-wick-pressure"
+    "path": "factors/R258-5d-compressed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R259",
@@ -2752,7 +2940,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R259-5d-compressed-lower-wick-support"
+    "path": "factors/R259-5d-compressed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R260",
@@ -2781,7 +2971,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R260-5d-compressed-drawdown-from-high"
+    "path": "factors/R260-5d-compressed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R275",
@@ -2810,7 +3002,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R275-7d-z-scored-rsi-strength"
+    "path": "factors/R275-7d-z-scored-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R276",
@@ -2839,7 +3033,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R276-7d-z-scored-rsi-reversal"
+    "path": "factors/R276-7d-z-scored-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R277",
@@ -2868,7 +3064,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R277-7d-z-scored-stochastic-position"
+    "path": "factors/R277-7d-z-scored-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R278",
@@ -2897,7 +3095,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R278-7d-z-scored-atr-ratio"
+    "path": "factors/R278-7d-z-scored-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R279",
@@ -2926,7 +3126,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R279-7d-z-scored-range-ratio"
+    "path": "factors/R279-7d-z-scored-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R280",
@@ -2955,7 +3157,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R280-7d-z-scored-realized-volatility"
+    "path": "factors/R280-7d-z-scored-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R281",
@@ -2984,7 +3188,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R281-7d-z-scored-downside-volatility"
+    "path": "factors/R281-7d-z-scored-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R289",
@@ -3013,7 +3219,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R289-7d-z-scored-gap-sum"
+    "path": "factors/R289-7d-z-scored-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R290",
@@ -3042,7 +3250,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R290-7d-z-scored-intraday-return"
+    "path": "factors/R290-7d-z-scored-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R291",
@@ -3071,7 +3281,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R291-7d-z-scored-upper-wick-pressure"
+    "path": "factors/R291-7d-z-scored-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R292",
@@ -3100,7 +3312,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R292-7d-z-scored-lower-wick-support"
+    "path": "factors/R292-7d-z-scored-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R293",
@@ -3129,7 +3343,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R293-7d-z-scored-drawdown-from-high"
+    "path": "factors/R293-7d-z-scored-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R308",
@@ -3158,7 +3374,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R308-7d-delta-rsi-strength"
+    "path": "factors/R308-7d-delta-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R309",
@@ -3187,7 +3405,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R309-7d-delta-rsi-reversal"
+    "path": "factors/R309-7d-delta-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R310",
@@ -3216,7 +3436,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R310-7d-delta-stochastic-position"
+    "path": "factors/R310-7d-delta-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R311",
@@ -3245,7 +3467,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R311-7d-delta-atr-ratio"
+    "path": "factors/R311-7d-delta-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R312",
@@ -3274,7 +3498,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R312-7d-delta-range-ratio"
+    "path": "factors/R312-7d-delta-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R313",
@@ -3303,7 +3529,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R313-7d-delta-realized-volatility"
+    "path": "factors/R313-7d-delta-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R314",
@@ -3332,7 +3560,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R314-7d-delta-downside-volatility"
+    "path": "factors/R314-7d-delta-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R322",
@@ -3361,7 +3591,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R322-7d-delta-gap-sum"
+    "path": "factors/R322-7d-delta-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R323",
@@ -3390,7 +3622,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R323-7d-delta-intraday-return"
+    "path": "factors/R323-7d-delta-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R324",
@@ -3419,7 +3653,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R324-7d-delta-upper-wick-pressure"
+    "path": "factors/R324-7d-delta-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R325",
@@ -3448,7 +3684,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R325-7d-delta-lower-wick-support"
+    "path": "factors/R325-7d-delta-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R326",
@@ -3477,7 +3715,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R326-7d-delta-drawdown-from-high"
+    "path": "factors/R326-7d-delta-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R341",
@@ -3506,7 +3746,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R341-7d-smoothed-rsi-strength"
+    "path": "factors/R341-7d-smoothed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R342",
@@ -3535,7 +3777,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R342-7d-smoothed-rsi-reversal"
+    "path": "factors/R342-7d-smoothed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R343",
@@ -3564,7 +3808,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R343-7d-smoothed-stochastic-position"
+    "path": "factors/R343-7d-smoothed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R344",
@@ -3593,7 +3839,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R344-7d-smoothed-atr-ratio"
+    "path": "factors/R344-7d-smoothed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R345",
@@ -3622,7 +3870,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R345-7d-smoothed-range-ratio"
+    "path": "factors/R345-7d-smoothed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R346",
@@ -3651,7 +3901,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R346-7d-smoothed-realized-volatility"
+    "path": "factors/R346-7d-smoothed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R347",
@@ -3680,7 +3932,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R347-7d-smoothed-downside-volatility"
+    "path": "factors/R347-7d-smoothed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R355",
@@ -3709,7 +3963,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R355-7d-smoothed-gap-sum"
+    "path": "factors/R355-7d-smoothed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R356",
@@ -3738,7 +3994,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R356-7d-smoothed-intraday-return"
+    "path": "factors/R356-7d-smoothed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R357",
@@ -3767,7 +4025,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R357-7d-smoothed-upper-wick-pressure"
+    "path": "factors/R357-7d-smoothed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R358",
@@ -3796,7 +4056,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R358-7d-smoothed-lower-wick-support"
+    "path": "factors/R358-7d-smoothed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R359",
@@ -3825,7 +4087,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R359-7d-smoothed-drawdown-from-high"
+    "path": "factors/R359-7d-smoothed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R374",
@@ -3854,7 +4118,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R374-7d-time-series-ranked-rsi-strength"
+    "path": "factors/R374-7d-time-series-ranked-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R375",
@@ -3883,7 +4149,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R375-7d-time-series-ranked-rsi-reversal"
+    "path": "factors/R375-7d-time-series-ranked-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R376",
@@ -3912,7 +4180,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R376-7d-time-series-ranked-stochastic-position"
+    "path": "factors/R376-7d-time-series-ranked-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R377",
@@ -3941,7 +4211,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R377-7d-time-series-ranked-atr-ratio"
+    "path": "factors/R377-7d-time-series-ranked-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R378",
@@ -3970,7 +4242,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R378-7d-time-series-ranked-range-ratio"
+    "path": "factors/R378-7d-time-series-ranked-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R379",
@@ -3999,7 +4273,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R379-7d-time-series-ranked-realized-volatility"
+    "path": "factors/R379-7d-time-series-ranked-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R380",
@@ -4028,7 +4304,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R380-7d-time-series-ranked-downside-volatility"
+    "path": "factors/R380-7d-time-series-ranked-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R388",
@@ -4057,7 +4335,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R388-7d-time-series-ranked-gap-sum"
+    "path": "factors/R388-7d-time-series-ranked-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R389",
@@ -4086,7 +4366,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R389-7d-time-series-ranked-intraday-return"
+    "path": "factors/R389-7d-time-series-ranked-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R390",
@@ -4115,7 +4397,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R390-7d-time-series-ranked-upper-wick-pressure"
+    "path": "factors/R390-7d-time-series-ranked-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R391",
@@ -4144,7 +4428,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R391-7d-time-series-ranked-lower-wick-support"
+    "path": "factors/R391-7d-time-series-ranked-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R392",
@@ -4173,7 +4459,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R392-7d-time-series-ranked-drawdown-from-high"
+    "path": "factors/R392-7d-time-series-ranked-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R407",
@@ -4202,7 +4490,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R407-7d-volatility-scaled-rsi-strength"
+    "path": "factors/R407-7d-volatility-scaled-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R408",
@@ -4231,7 +4521,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R408-7d-volatility-scaled-rsi-reversal"
+    "path": "factors/R408-7d-volatility-scaled-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R409",
@@ -4260,7 +4552,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R409-7d-volatility-scaled-stochastic-position"
+    "path": "factors/R409-7d-volatility-scaled-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R410",
@@ -4289,7 +4583,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R410-7d-volatility-scaled-atr-ratio"
+    "path": "factors/R410-7d-volatility-scaled-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R411",
@@ -4318,7 +4614,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R411-7d-volatility-scaled-range-ratio"
+    "path": "factors/R411-7d-volatility-scaled-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R412",
@@ -4347,7 +4645,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R412-7d-volatility-scaled-realized-volatility"
+    "path": "factors/R412-7d-volatility-scaled-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R413",
@@ -4376,7 +4676,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R413-7d-volatility-scaled-downside-volatility"
+    "path": "factors/R413-7d-volatility-scaled-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R421",
@@ -4405,7 +4707,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R421-7d-volatility-scaled-gap-sum"
+    "path": "factors/R421-7d-volatility-scaled-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R422",
@@ -4434,7 +4738,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R422-7d-volatility-scaled-intraday-return"
+    "path": "factors/R422-7d-volatility-scaled-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R423",
@@ -4463,7 +4769,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R423-7d-volatility-scaled-upper-wick-pressure"
+    "path": "factors/R423-7d-volatility-scaled-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R424",
@@ -4492,7 +4800,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R424-7d-volatility-scaled-lower-wick-support"
+    "path": "factors/R424-7d-volatility-scaled-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R425",
@@ -4521,7 +4831,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R425-7d-volatility-scaled-drawdown-from-high"
+    "path": "factors/R425-7d-volatility-scaled-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R440",
@@ -4550,7 +4862,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R440-7d-stability-scaled-rsi-strength"
+    "path": "factors/R440-7d-stability-scaled-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R441",
@@ -4579,7 +4893,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R441-7d-stability-scaled-rsi-reversal"
+    "path": "factors/R441-7d-stability-scaled-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R442",
@@ -4608,7 +4924,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R442-7d-stability-scaled-stochastic-position"
+    "path": "factors/R442-7d-stability-scaled-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R443",
@@ -4637,7 +4955,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R443-7d-stability-scaled-atr-ratio"
+    "path": "factors/R443-7d-stability-scaled-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R444",
@@ -4666,7 +4986,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R444-7d-stability-scaled-range-ratio"
+    "path": "factors/R444-7d-stability-scaled-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R445",
@@ -4695,7 +5017,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R445-7d-stability-scaled-realized-volatility"
+    "path": "factors/R445-7d-stability-scaled-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R446",
@@ -4724,7 +5048,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R446-7d-stability-scaled-downside-volatility"
+    "path": "factors/R446-7d-stability-scaled-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R454",
@@ -4753,7 +5079,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R454-7d-stability-scaled-gap-sum"
+    "path": "factors/R454-7d-stability-scaled-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R455",
@@ -4782,7 +5110,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R455-7d-stability-scaled-intraday-return"
+    "path": "factors/R455-7d-stability-scaled-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R456",
@@ -4811,7 +5141,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R456-7d-stability-scaled-upper-wick-pressure"
+    "path": "factors/R456-7d-stability-scaled-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R457",
@@ -4840,7 +5172,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R457-7d-stability-scaled-lower-wick-support"
+    "path": "factors/R457-7d-stability-scaled-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R458",
@@ -4869,7 +5203,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R458-7d-stability-scaled-drawdown-from-high"
+    "path": "factors/R458-7d-stability-scaled-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R473",
@@ -4898,7 +5234,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R473-7d-volume-confirmed-rsi-strength"
+    "path": "factors/R473-7d-volume-confirmed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R474",
@@ -4927,7 +5265,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R474-7d-volume-confirmed-rsi-reversal"
+    "path": "factors/R474-7d-volume-confirmed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R475",
@@ -4956,7 +5296,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R475-7d-volume-confirmed-stochastic-position"
+    "path": "factors/R475-7d-volume-confirmed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R476",
@@ -4985,7 +5327,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R476-7d-volume-confirmed-atr-ratio"
+    "path": "factors/R476-7d-volume-confirmed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R477",
@@ -5014,7 +5358,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R477-7d-volume-confirmed-range-ratio"
+    "path": "factors/R477-7d-volume-confirmed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R478",
@@ -5043,7 +5389,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R478-7d-volume-confirmed-realized-volatility"
+    "path": "factors/R478-7d-volume-confirmed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R479",
@@ -5072,7 +5420,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R479-7d-volume-confirmed-downside-volatility"
+    "path": "factors/R479-7d-volume-confirmed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R487",
@@ -5101,7 +5451,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R487-7d-volume-confirmed-gap-sum"
+    "path": "factors/R487-7d-volume-confirmed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R488",
@@ -5130,7 +5482,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R488-7d-volume-confirmed-intraday-return"
+    "path": "factors/R488-7d-volume-confirmed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R489",
@@ -5159,7 +5513,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R489-7d-volume-confirmed-upper-wick-pressure"
+    "path": "factors/R489-7d-volume-confirmed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R490",
@@ -5188,7 +5544,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R490-7d-volume-confirmed-lower-wick-support"
+    "path": "factors/R490-7d-volume-confirmed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R491",
@@ -5217,7 +5575,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R491-7d-volume-confirmed-drawdown-from-high"
+    "path": "factors/R491-7d-volume-confirmed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R506",
@@ -5246,7 +5606,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R506-7d-compressed-rsi-strength"
+    "path": "factors/R506-7d-compressed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R507",
@@ -5275,7 +5637,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R507-7d-compressed-rsi-reversal"
+    "path": "factors/R507-7d-compressed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R508",
@@ -5304,7 +5668,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R508-7d-compressed-stochastic-position"
+    "path": "factors/R508-7d-compressed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R509",
@@ -5333,7 +5699,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R509-7d-compressed-atr-ratio"
+    "path": "factors/R509-7d-compressed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R510",
@@ -5362,7 +5730,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R510-7d-compressed-range-ratio"
+    "path": "factors/R510-7d-compressed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R511",
@@ -5391,7 +5761,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R511-7d-compressed-realized-volatility"
+    "path": "factors/R511-7d-compressed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R512",
@@ -5420,7 +5792,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R512-7d-compressed-downside-volatility"
+    "path": "factors/R512-7d-compressed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R520",
@@ -5449,7 +5823,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R520-7d-compressed-gap-sum"
+    "path": "factors/R520-7d-compressed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R521",
@@ -5478,7 +5854,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R521-7d-compressed-intraday-return"
+    "path": "factors/R521-7d-compressed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R522",
@@ -5507,7 +5885,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R522-7d-compressed-upper-wick-pressure"
+    "path": "factors/R522-7d-compressed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R523",
@@ -5536,7 +5916,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R523-7d-compressed-lower-wick-support"
+    "path": "factors/R523-7d-compressed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R524",
@@ -5565,7 +5947,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R524-7d-compressed-drawdown-from-high"
+    "path": "factors/R524-7d-compressed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R539",
@@ -5594,7 +5978,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R539-10d-z-scored-rsi-strength"
+    "path": "factors/R539-10d-z-scored-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R540",
@@ -5623,7 +6009,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R540-10d-z-scored-rsi-reversal"
+    "path": "factors/R540-10d-z-scored-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R541",
@@ -5652,7 +6040,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R541-10d-z-scored-stochastic-position"
+    "path": "factors/R541-10d-z-scored-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R542",
@@ -5681,7 +6071,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R542-10d-z-scored-atr-ratio"
+    "path": "factors/R542-10d-z-scored-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R543",
@@ -5710,7 +6102,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R543-10d-z-scored-range-ratio"
+    "path": "factors/R543-10d-z-scored-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R544",
@@ -5739,7 +6133,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R544-10d-z-scored-realized-volatility"
+    "path": "factors/R544-10d-z-scored-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R545",
@@ -5768,7 +6164,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R545-10d-z-scored-downside-volatility"
+    "path": "factors/R545-10d-z-scored-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R553",
@@ -5797,7 +6195,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R553-10d-z-scored-gap-sum"
+    "path": "factors/R553-10d-z-scored-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R554",
@@ -5826,7 +6226,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R554-10d-z-scored-intraday-return"
+    "path": "factors/R554-10d-z-scored-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R555",
@@ -5855,7 +6257,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R555-10d-z-scored-upper-wick-pressure"
+    "path": "factors/R555-10d-z-scored-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R556",
@@ -5884,7 +6288,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R556-10d-z-scored-lower-wick-support"
+    "path": "factors/R556-10d-z-scored-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R557",
@@ -5913,7 +6319,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R557-10d-z-scored-drawdown-from-high"
+    "path": "factors/R557-10d-z-scored-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R572",
@@ -5942,7 +6350,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R572-10d-delta-rsi-strength"
+    "path": "factors/R572-10d-delta-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R573",
@@ -5971,7 +6381,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R573-10d-delta-rsi-reversal"
+    "path": "factors/R573-10d-delta-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R574",
@@ -6000,7 +6412,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R574-10d-delta-stochastic-position"
+    "path": "factors/R574-10d-delta-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R575",
@@ -6029,7 +6443,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R575-10d-delta-atr-ratio"
+    "path": "factors/R575-10d-delta-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R576",
@@ -6058,7 +6474,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R576-10d-delta-range-ratio"
+    "path": "factors/R576-10d-delta-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R577",
@@ -6087,7 +6505,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R577-10d-delta-realized-volatility"
+    "path": "factors/R577-10d-delta-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R578",
@@ -6116,7 +6536,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R578-10d-delta-downside-volatility"
+    "path": "factors/R578-10d-delta-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R586",
@@ -6145,7 +6567,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R586-10d-delta-gap-sum"
+    "path": "factors/R586-10d-delta-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R587",
@@ -6174,7 +6598,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R587-10d-delta-intraday-return"
+    "path": "factors/R587-10d-delta-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R588",
@@ -6203,7 +6629,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R588-10d-delta-upper-wick-pressure"
+    "path": "factors/R588-10d-delta-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R589",
@@ -6232,7 +6660,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R589-10d-delta-lower-wick-support"
+    "path": "factors/R589-10d-delta-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R590",
@@ -6261,7 +6691,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R590-10d-delta-drawdown-from-high"
+    "path": "factors/R590-10d-delta-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R605",
@@ -6290,7 +6722,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R605-10d-smoothed-rsi-strength"
+    "path": "factors/R605-10d-smoothed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R606",
@@ -6319,7 +6753,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R606-10d-smoothed-rsi-reversal"
+    "path": "factors/R606-10d-smoothed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R607",
@@ -6348,7 +6784,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R607-10d-smoothed-stochastic-position"
+    "path": "factors/R607-10d-smoothed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R608",
@@ -6377,7 +6815,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R608-10d-smoothed-atr-ratio"
+    "path": "factors/R608-10d-smoothed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R609",
@@ -6406,7 +6846,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R609-10d-smoothed-range-ratio"
+    "path": "factors/R609-10d-smoothed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R610",
@@ -6435,7 +6877,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R610-10d-smoothed-realized-volatility"
+    "path": "factors/R610-10d-smoothed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R611",
@@ -6464,7 +6908,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R611-10d-smoothed-downside-volatility"
+    "path": "factors/R611-10d-smoothed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R619",
@@ -6493,7 +6939,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R619-10d-smoothed-gap-sum"
+    "path": "factors/R619-10d-smoothed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R620",
@@ -6522,7 +6970,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R620-10d-smoothed-intraday-return"
+    "path": "factors/R620-10d-smoothed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R621",
@@ -6551,7 +7001,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R621-10d-smoothed-upper-wick-pressure"
+    "path": "factors/R621-10d-smoothed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R622",
@@ -6580,7 +7032,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R622-10d-smoothed-lower-wick-support"
+    "path": "factors/R622-10d-smoothed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R623",
@@ -6609,7 +7063,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R623-10d-smoothed-drawdown-from-high"
+    "path": "factors/R623-10d-smoothed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R638",
@@ -6638,7 +7094,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R638-10d-time-series-ranked-rsi-strength"
+    "path": "factors/R638-10d-time-series-ranked-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R639",
@@ -6667,7 +7125,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R639-10d-time-series-ranked-rsi-reversal"
+    "path": "factors/R639-10d-time-series-ranked-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R640",
@@ -6696,7 +7156,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R640-10d-time-series-ranked-stochastic-position"
+    "path": "factors/R640-10d-time-series-ranked-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R641",
@@ -6725,7 +7187,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R641-10d-time-series-ranked-atr-ratio"
+    "path": "factors/R641-10d-time-series-ranked-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R642",
@@ -6754,7 +7218,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R642-10d-time-series-ranked-range-ratio"
+    "path": "factors/R642-10d-time-series-ranked-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R643",
@@ -6783,7 +7249,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R643-10d-time-series-ranked-realized-volatility"
+    "path": "factors/R643-10d-time-series-ranked-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R644",
@@ -6812,7 +7280,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R644-10d-time-series-ranked-downside-volatility"
+    "path": "factors/R644-10d-time-series-ranked-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R652",
@@ -6841,7 +7311,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R652-10d-time-series-ranked-gap-sum"
+    "path": "factors/R652-10d-time-series-ranked-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R653",
@@ -6870,7 +7342,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R653-10d-time-series-ranked-intraday-return"
+    "path": "factors/R653-10d-time-series-ranked-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R654",
@@ -6899,7 +7373,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R654-10d-time-series-ranked-upper-wick-pressure"
+    "path": "factors/R654-10d-time-series-ranked-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R655",
@@ -6928,7 +7404,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R655-10d-time-series-ranked-lower-wick-support"
+    "path": "factors/R655-10d-time-series-ranked-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R656",
@@ -6957,7 +7435,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R656-10d-time-series-ranked-drawdown-from-high"
+    "path": "factors/R656-10d-time-series-ranked-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R671",
@@ -6986,7 +7466,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R671-10d-volatility-scaled-rsi-strength"
+    "path": "factors/R671-10d-volatility-scaled-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R672",
@@ -7015,7 +7497,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R672-10d-volatility-scaled-rsi-reversal"
+    "path": "factors/R672-10d-volatility-scaled-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R673",
@@ -7044,7 +7528,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R673-10d-volatility-scaled-stochastic-position"
+    "path": "factors/R673-10d-volatility-scaled-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R674",
@@ -7073,7 +7559,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R674-10d-volatility-scaled-atr-ratio"
+    "path": "factors/R674-10d-volatility-scaled-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R675",
@@ -7102,7 +7590,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R675-10d-volatility-scaled-range-ratio"
+    "path": "factors/R675-10d-volatility-scaled-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R676",
@@ -7131,7 +7621,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R676-10d-volatility-scaled-realized-volatility"
+    "path": "factors/R676-10d-volatility-scaled-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R677",
@@ -7160,7 +7652,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R677-10d-volatility-scaled-downside-volatility"
+    "path": "factors/R677-10d-volatility-scaled-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R685",
@@ -7189,7 +7683,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R685-10d-volatility-scaled-gap-sum"
+    "path": "factors/R685-10d-volatility-scaled-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R686",
@@ -7218,7 +7714,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R686-10d-volatility-scaled-intraday-return"
+    "path": "factors/R686-10d-volatility-scaled-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R687",
@@ -7247,7 +7745,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R687-10d-volatility-scaled-upper-wick-pressure"
+    "path": "factors/R687-10d-volatility-scaled-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R688",
@@ -7276,7 +7776,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R688-10d-volatility-scaled-lower-wick-support"
+    "path": "factors/R688-10d-volatility-scaled-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R689",
@@ -7305,7 +7807,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R689-10d-volatility-scaled-drawdown-from-high"
+    "path": "factors/R689-10d-volatility-scaled-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R704",
@@ -7334,7 +7838,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R704-10d-stability-scaled-rsi-strength"
+    "path": "factors/R704-10d-stability-scaled-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R705",
@@ -7363,7 +7869,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R705-10d-stability-scaled-rsi-reversal"
+    "path": "factors/R705-10d-stability-scaled-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R706",
@@ -7392,7 +7900,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R706-10d-stability-scaled-stochastic-position"
+    "path": "factors/R706-10d-stability-scaled-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R707",
@@ -7421,7 +7931,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R707-10d-stability-scaled-atr-ratio"
+    "path": "factors/R707-10d-stability-scaled-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R708",
@@ -7450,7 +7962,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R708-10d-stability-scaled-range-ratio"
+    "path": "factors/R708-10d-stability-scaled-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R709",
@@ -7479,7 +7993,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R709-10d-stability-scaled-realized-volatility"
+    "path": "factors/R709-10d-stability-scaled-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R710",
@@ -7508,7 +8024,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R710-10d-stability-scaled-downside-volatility"
+    "path": "factors/R710-10d-stability-scaled-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R718",
@@ -7537,7 +8055,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R718-10d-stability-scaled-gap-sum"
+    "path": "factors/R718-10d-stability-scaled-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R719",
@@ -7566,7 +8086,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R719-10d-stability-scaled-intraday-return"
+    "path": "factors/R719-10d-stability-scaled-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R720",
@@ -7595,7 +8117,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R720-10d-stability-scaled-upper-wick-pressure"
+    "path": "factors/R720-10d-stability-scaled-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R721",
@@ -7624,7 +8148,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R721-10d-stability-scaled-lower-wick-support"
+    "path": "factors/R721-10d-stability-scaled-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R722",
@@ -7653,7 +8179,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R722-10d-stability-scaled-drawdown-from-high"
+    "path": "factors/R722-10d-stability-scaled-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R737",
@@ -7682,7 +8210,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R737-10d-volume-confirmed-rsi-strength"
+    "path": "factors/R737-10d-volume-confirmed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R738",
@@ -7711,7 +8241,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R738-10d-volume-confirmed-rsi-reversal"
+    "path": "factors/R738-10d-volume-confirmed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R739",
@@ -7740,7 +8272,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R739-10d-volume-confirmed-stochastic-position"
+    "path": "factors/R739-10d-volume-confirmed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R740",
@@ -7769,7 +8303,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R740-10d-volume-confirmed-atr-ratio"
+    "path": "factors/R740-10d-volume-confirmed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R741",
@@ -7798,7 +8334,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R741-10d-volume-confirmed-range-ratio"
+    "path": "factors/R741-10d-volume-confirmed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R742",
@@ -7827,7 +8365,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R742-10d-volume-confirmed-realized-volatility"
+    "path": "factors/R742-10d-volume-confirmed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R743",
@@ -7856,7 +8396,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R743-10d-volume-confirmed-downside-volatility"
+    "path": "factors/R743-10d-volume-confirmed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R751",
@@ -7885,7 +8427,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R751-10d-volume-confirmed-gap-sum"
+    "path": "factors/R751-10d-volume-confirmed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R752",
@@ -7914,7 +8458,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R752-10d-volume-confirmed-intraday-return"
+    "path": "factors/R752-10d-volume-confirmed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R753",
@@ -7943,7 +8489,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R753-10d-volume-confirmed-upper-wick-pressure"
+    "path": "factors/R753-10d-volume-confirmed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R754",
@@ -7972,7 +8520,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R754-10d-volume-confirmed-lower-wick-support"
+    "path": "factors/R754-10d-volume-confirmed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R755",
@@ -8001,7 +8551,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R755-10d-volume-confirmed-drawdown-from-high"
+    "path": "factors/R755-10d-volume-confirmed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R770",
@@ -8030,7 +8582,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R770-10d-compressed-rsi-strength"
+    "path": "factors/R770-10d-compressed-rsi-strength",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R771",
@@ -8059,7 +8613,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R771-10d-compressed-rsi-reversal"
+    "path": "factors/R771-10d-compressed-rsi-reversal",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R772",
@@ -8088,7 +8644,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R772-10d-compressed-stochastic-position"
+    "path": "factors/R772-10d-compressed-stochastic-position",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R773",
@@ -8117,7 +8675,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R773-10d-compressed-atr-ratio"
+    "path": "factors/R773-10d-compressed-atr-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R774",
@@ -8146,7 +8706,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R774-10d-compressed-range-ratio"
+    "path": "factors/R774-10d-compressed-range-ratio",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R775",
@@ -8175,7 +8737,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R775-10d-compressed-realized-volatility"
+    "path": "factors/R775-10d-compressed-realized-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R776",
@@ -8204,7 +8768,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R776-10d-compressed-downside-volatility"
+    "path": "factors/R776-10d-compressed-downside-volatility",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R784",
@@ -8233,7 +8799,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R784-10d-compressed-gap-sum"
+    "path": "factors/R784-10d-compressed-gap-sum",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R785",
@@ -8262,7 +8830,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R785-10d-compressed-intraday-return"
+    "path": "factors/R785-10d-compressed-intraday-return",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R786",
@@ -8291,7 +8861,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R786-10d-compressed-upper-wick-pressure"
+    "path": "factors/R786-10d-compressed-upper-wick-pressure",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R787",
@@ -8320,7 +8892,9 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R787-10d-compressed-lower-wick-support"
+    "path": "factors/R787-10d-compressed-lower-wick-support",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   },
   {
     "factor_id": "R788",
@@ -8349,6 +8923,8 @@
     "collection": "risk-pattern-alpha",
     "organization_url": "https://github.com/quantskills",
     "repository_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha",
-    "path": "factors/R788-10d-compressed-drawdown-from-high"
+    "path": "factors/R788-10d-compressed-drawdown-from-high",
+    "license": "GPL-3.0-only",
+    "copyright": "Copyright (C) 2026 QuantSkills"
   }
 ]

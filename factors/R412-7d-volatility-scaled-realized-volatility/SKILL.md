@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R412
   category: Volatility
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Volatility Scaled Realized Volatility

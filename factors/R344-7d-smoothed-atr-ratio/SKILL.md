@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R344
   category: Volatility
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Smoothed ATR Ratio

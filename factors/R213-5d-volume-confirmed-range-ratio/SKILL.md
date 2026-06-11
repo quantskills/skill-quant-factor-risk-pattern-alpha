@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R213
   category: Volatility
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 5D Volume Confirmed Range Ratio

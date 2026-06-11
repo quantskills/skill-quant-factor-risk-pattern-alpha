@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R689
   category: Drawdown
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 10D Volatility Scaled Drawdown From High

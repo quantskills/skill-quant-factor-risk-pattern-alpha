@@ -9,6 +9,8 @@ metadata:
   collection: risk-pattern-alpha
   factor_id: R289
   category: Pattern
+  license: GPL-3.0-only
+  copyright: Copyright (C) 2026 QuantSkills
 ---
 
 # 7D Z-Scored Gap Sum
