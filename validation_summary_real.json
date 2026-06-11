@@ -32,7 +32,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R011-5d-z-scored-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -67,7 +68,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R012-5d-z-scored-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -102,7 +104,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R013-5d-z-scored-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -137,7 +140,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R014-5d-z-scored-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -172,7 +176,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R015-5d-z-scored-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -207,7 +212,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R016-5d-z-scored-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -242,7 +248,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R017-5d-z-scored-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -277,7 +284,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R025-5d-z-scored-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -312,7 +320,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R026-5d-z-scored-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -347,7 +356,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R027-5d-z-scored-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -382,7 +392,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R028-5d-z-scored-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -417,7 +428,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R029-5d-z-scored-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -452,7 +464,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R044-5d-delta-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -487,7 +500,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R045-5d-delta-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -522,7 +536,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R046-5d-delta-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -557,7 +572,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R047-5d-delta-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -592,7 +608,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R048-5d-delta-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -627,7 +644,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R049-5d-delta-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -662,7 +680,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R050-5d-delta-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -697,7 +716,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R058-5d-delta-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -732,7 +752,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R059-5d-delta-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -767,7 +788,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R060-5d-delta-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -802,7 +824,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R061-5d-delta-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -837,7 +860,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R062-5d-delta-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -872,7 +896,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R077-5d-smoothed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -907,7 +932,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R078-5d-smoothed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -942,7 +968,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R079-5d-smoothed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -977,7 +1004,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R080-5d-smoothed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -1012,7 +1040,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R081-5d-smoothed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -1047,7 +1076,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R082-5d-smoothed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -1082,7 +1112,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R083-5d-smoothed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -1117,7 +1148,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R091-5d-smoothed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -1152,7 +1184,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R092-5d-smoothed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -1187,7 +1220,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R093-5d-smoothed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -1222,7 +1256,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R094-5d-smoothed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -1257,7 +1292,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R095-5d-smoothed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -1292,7 +1328,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R110-5d-time-series-ranked-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -1327,7 +1364,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R111-5d-time-series-ranked-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -1362,7 +1400,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R112-5d-time-series-ranked-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -1397,7 +1436,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R113-5d-time-series-ranked-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -1432,7 +1472,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R114-5d-time-series-ranked-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -1467,7 +1508,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R115-5d-time-series-ranked-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -1502,7 +1544,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R116-5d-time-series-ranked-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -1537,7 +1580,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R124-5d-time-series-ranked-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -1572,7 +1616,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R125-5d-time-series-ranked-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -1607,7 +1652,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R126-5d-time-series-ranked-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -1642,7 +1688,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R127-5d-time-series-ranked-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -1677,7 +1724,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R128-5d-time-series-ranked-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -1712,7 +1760,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R143-5d-volatility-scaled-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -1747,7 +1796,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R144-5d-volatility-scaled-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -1782,7 +1832,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R145-5d-volatility-scaled-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -1817,7 +1868,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R146-5d-volatility-scaled-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -1852,7 +1904,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R147-5d-volatility-scaled-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -1887,7 +1940,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R148-5d-volatility-scaled-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -1922,7 +1976,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R149-5d-volatility-scaled-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -1957,7 +2012,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R157-5d-volatility-scaled-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -1992,7 +2048,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R158-5d-volatility-scaled-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -2027,7 +2084,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R159-5d-volatility-scaled-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -2062,7 +2120,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R160-5d-volatility-scaled-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -2097,7 +2156,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R161-5d-volatility-scaled-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -2132,7 +2192,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R176-5d-stability-scaled-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -2167,7 +2228,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R177-5d-stability-scaled-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -2202,7 +2264,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R178-5d-stability-scaled-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -2237,7 +2300,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R179-5d-stability-scaled-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -2272,7 +2336,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R180-5d-stability-scaled-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -2307,7 +2372,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R181-5d-stability-scaled-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -2342,7 +2408,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R182-5d-stability-scaled-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -2377,7 +2444,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R190-5d-stability-scaled-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -2412,7 +2480,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R191-5d-stability-scaled-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -2447,7 +2516,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R192-5d-stability-scaled-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -2482,7 +2552,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R193-5d-stability-scaled-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -2517,7 +2588,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R194-5d-stability-scaled-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -2552,7 +2624,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R209-5d-volume-confirmed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -2587,7 +2660,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R210-5d-volume-confirmed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -2622,7 +2696,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R211-5d-volume-confirmed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -2657,7 +2732,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R212-5d-volume-confirmed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -2692,7 +2768,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R213-5d-volume-confirmed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -2727,7 +2804,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R214-5d-volume-confirmed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -2762,7 +2840,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R215-5d-volume-confirmed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -2797,7 +2876,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R223-5d-volume-confirmed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -2832,7 +2912,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R224-5d-volume-confirmed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -2867,7 +2948,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R225-5d-volume-confirmed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -2902,7 +2984,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R226-5d-volume-confirmed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -2937,7 +3020,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R227-5d-volume-confirmed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -2972,7 +3056,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R242-5d-compressed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -3007,7 +3092,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R243-5d-compressed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -3042,7 +3128,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R244-5d-compressed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -3077,7 +3164,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R245-5d-compressed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -3112,7 +3200,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R246-5d-compressed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -3147,7 +3236,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R247-5d-compressed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -3182,7 +3272,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R248-5d-compressed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -3217,7 +3308,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R256-5d-compressed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -3252,7 +3344,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R257-5d-compressed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -3287,7 +3380,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R258-5d-compressed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -3322,7 +3416,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R259-5d-compressed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -3357,7 +3452,8 @@
       "slow": 5
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R260-5d-compressed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -3392,7 +3488,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R275-7d-z-scored-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -3427,7 +3524,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R276-7d-z-scored-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -3462,7 +3560,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R277-7d-z-scored-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -3497,7 +3596,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R278-7d-z-scored-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -3532,7 +3632,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R279-7d-z-scored-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -3567,7 +3668,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R280-7d-z-scored-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -3602,7 +3704,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R281-7d-z-scored-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -3637,7 +3740,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R289-7d-z-scored-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -3672,7 +3776,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R290-7d-z-scored-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -3707,7 +3812,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R291-7d-z-scored-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -3742,7 +3848,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R292-7d-z-scored-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -3777,7 +3884,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R293-7d-z-scored-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -3812,7 +3920,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R308-7d-delta-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -3847,7 +3956,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R309-7d-delta-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -3882,7 +3992,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R310-7d-delta-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -3917,7 +4028,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R311-7d-delta-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -3952,7 +4064,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R312-7d-delta-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -3987,7 +4100,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R313-7d-delta-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -4022,7 +4136,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R314-7d-delta-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -4057,7 +4172,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R322-7d-delta-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -4092,7 +4208,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R323-7d-delta-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -4127,7 +4244,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R324-7d-delta-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -4162,7 +4280,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R325-7d-delta-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -4197,7 +4316,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R326-7d-delta-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -4232,7 +4352,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R341-7d-smoothed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -4267,7 +4388,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R342-7d-smoothed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -4302,7 +4424,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R343-7d-smoothed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -4337,7 +4460,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R344-7d-smoothed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -4372,7 +4496,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R345-7d-smoothed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -4407,7 +4532,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R346-7d-smoothed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -4442,7 +4568,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R347-7d-smoothed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -4477,7 +4604,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R355-7d-smoothed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -4512,7 +4640,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R356-7d-smoothed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -4547,7 +4676,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R357-7d-smoothed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -4582,7 +4712,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R358-7d-smoothed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -4617,7 +4748,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R359-7d-smoothed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -4652,7 +4784,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R374-7d-time-series-ranked-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -4687,7 +4820,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R375-7d-time-series-ranked-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -4722,7 +4856,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R376-7d-time-series-ranked-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -4757,7 +4892,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R377-7d-time-series-ranked-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -4792,7 +4928,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R378-7d-time-series-ranked-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -4827,7 +4964,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R379-7d-time-series-ranked-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -4862,7 +5000,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R380-7d-time-series-ranked-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -4897,7 +5036,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R388-7d-time-series-ranked-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -4932,7 +5072,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R389-7d-time-series-ranked-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -4967,7 +5108,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R390-7d-time-series-ranked-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -5002,7 +5144,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R391-7d-time-series-ranked-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -5037,7 +5180,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R392-7d-time-series-ranked-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -5072,7 +5216,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R407-7d-volatility-scaled-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -5107,7 +5252,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R408-7d-volatility-scaled-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -5142,7 +5288,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R409-7d-volatility-scaled-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -5177,7 +5324,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R410-7d-volatility-scaled-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -5212,7 +5360,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R411-7d-volatility-scaled-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -5247,7 +5396,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R412-7d-volatility-scaled-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -5282,7 +5432,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R413-7d-volatility-scaled-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -5317,7 +5468,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R421-7d-volatility-scaled-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -5352,7 +5504,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R422-7d-volatility-scaled-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -5387,7 +5540,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R423-7d-volatility-scaled-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -5422,7 +5576,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R424-7d-volatility-scaled-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -5457,7 +5612,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R425-7d-volatility-scaled-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -5492,7 +5648,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R440-7d-stability-scaled-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -5527,7 +5684,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R441-7d-stability-scaled-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -5562,7 +5720,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R442-7d-stability-scaled-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -5597,7 +5756,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R443-7d-stability-scaled-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -5632,7 +5792,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R444-7d-stability-scaled-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -5667,7 +5828,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R445-7d-stability-scaled-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -5702,7 +5864,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R446-7d-stability-scaled-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -5737,7 +5900,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R454-7d-stability-scaled-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -5772,7 +5936,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R455-7d-stability-scaled-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -5807,7 +5972,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R456-7d-stability-scaled-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -5842,7 +6008,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R457-7d-stability-scaled-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -5877,7 +6044,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R458-7d-stability-scaled-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -5912,7 +6080,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R473-7d-volume-confirmed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -5947,7 +6116,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R474-7d-volume-confirmed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -5982,7 +6152,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R475-7d-volume-confirmed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -6017,7 +6188,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R476-7d-volume-confirmed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -6052,7 +6224,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R477-7d-volume-confirmed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -6087,7 +6260,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R478-7d-volume-confirmed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -6122,7 +6296,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R479-7d-volume-confirmed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -6157,7 +6332,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R487-7d-volume-confirmed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -6192,7 +6368,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R488-7d-volume-confirmed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -6227,7 +6404,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R489-7d-volume-confirmed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -6262,7 +6440,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R490-7d-volume-confirmed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -6297,7 +6476,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R491-7d-volume-confirmed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -6332,7 +6512,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R506-7d-compressed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -6367,7 +6548,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R507-7d-compressed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -6402,7 +6584,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R508-7d-compressed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -6437,7 +6620,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R509-7d-compressed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -6472,7 +6656,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R510-7d-compressed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -6507,7 +6692,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R511-7d-compressed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -6542,7 +6728,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R512-7d-compressed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -6577,7 +6764,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R520-7d-compressed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -6612,7 +6800,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R521-7d-compressed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -6647,7 +6836,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R522-7d-compressed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -6682,7 +6872,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R523-7d-compressed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -6717,7 +6908,8 @@
       "slow": 7
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R524-7d-compressed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -6752,7 +6944,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R539-10d-z-scored-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -6787,7 +6980,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R540-10d-z-scored-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -6822,7 +7016,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R541-10d-z-scored-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -6857,7 +7052,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R542-10d-z-scored-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -6892,7 +7088,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R543-10d-z-scored-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -6927,7 +7124,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R544-10d-z-scored-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -6962,7 +7160,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R545-10d-z-scored-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -6997,7 +7196,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R553-10d-z-scored-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -7032,7 +7232,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R554-10d-z-scored-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -7067,7 +7268,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R555-10d-z-scored-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -7102,7 +7304,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R556-10d-z-scored-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -7137,7 +7340,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R557-10d-z-scored-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -7172,7 +7376,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R572-10d-delta-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -7207,7 +7412,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R573-10d-delta-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -7242,7 +7448,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R574-10d-delta-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -7277,7 +7484,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R575-10d-delta-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -7312,7 +7520,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R576-10d-delta-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -7347,7 +7556,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R577-10d-delta-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -7382,7 +7592,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R578-10d-delta-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -7417,7 +7628,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R586-10d-delta-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -7452,7 +7664,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R587-10d-delta-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -7487,7 +7700,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R588-10d-delta-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -7522,7 +7736,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R589-10d-delta-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -7557,7 +7772,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R590-10d-delta-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -7592,7 +7808,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R605-10d-smoothed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -7627,7 +7844,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R606-10d-smoothed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -7662,7 +7880,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R607-10d-smoothed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -7697,7 +7916,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R608-10d-smoothed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -7732,7 +7952,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R609-10d-smoothed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -7767,7 +7988,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R610-10d-smoothed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -7802,7 +8024,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R611-10d-smoothed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -7837,7 +8060,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R619-10d-smoothed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -7872,7 +8096,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R620-10d-smoothed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -7907,7 +8132,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R621-10d-smoothed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -7942,7 +8168,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R622-10d-smoothed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -7977,7 +8204,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R623-10d-smoothed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -8012,7 +8240,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R638-10d-time-series-ranked-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -8047,7 +8276,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R639-10d-time-series-ranked-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -8082,7 +8312,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R640-10d-time-series-ranked-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -8117,7 +8348,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R641-10d-time-series-ranked-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -8152,7 +8384,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R642-10d-time-series-ranked-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -8187,7 +8420,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R643-10d-time-series-ranked-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -8222,7 +8456,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R644-10d-time-series-ranked-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -8257,7 +8492,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R652-10d-time-series-ranked-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -8292,7 +8528,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R653-10d-time-series-ranked-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -8327,7 +8564,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R654-10d-time-series-ranked-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -8362,7 +8600,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R655-10d-time-series-ranked-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -8397,7 +8636,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R656-10d-time-series-ranked-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -8432,7 +8672,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R671-10d-volatility-scaled-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -8467,7 +8708,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R672-10d-volatility-scaled-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -8502,7 +8744,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R673-10d-volatility-scaled-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -8537,7 +8780,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R674-10d-volatility-scaled-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -8572,7 +8816,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R675-10d-volatility-scaled-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -8607,7 +8852,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R676-10d-volatility-scaled-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -8642,7 +8888,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R677-10d-volatility-scaled-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -8677,7 +8924,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R685-10d-volatility-scaled-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -8712,7 +8960,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R686-10d-volatility-scaled-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -8747,7 +8996,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R687-10d-volatility-scaled-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -8782,7 +9032,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R688-10d-volatility-scaled-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -8817,7 +9068,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R689-10d-volatility-scaled-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -8852,7 +9104,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R704-10d-stability-scaled-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -8887,7 +9140,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R705-10d-stability-scaled-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -8922,7 +9176,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R706-10d-stability-scaled-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -8957,7 +9212,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R707-10d-stability-scaled-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -8992,7 +9248,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R708-10d-stability-scaled-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -9027,7 +9284,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R709-10d-stability-scaled-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -9062,7 +9320,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R710-10d-stability-scaled-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -9097,7 +9356,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R718-10d-stability-scaled-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -9132,7 +9392,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R719-10d-stability-scaled-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -9167,7 +9428,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R720-10d-stability-scaled-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -9202,7 +9464,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R721-10d-stability-scaled-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -9237,7 +9500,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R722-10d-stability-scaled-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -9272,7 +9536,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R737-10d-volume-confirmed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -9307,7 +9572,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R738-10d-volume-confirmed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -9342,7 +9608,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R739-10d-volume-confirmed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -9377,7 +9644,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R740-10d-volume-confirmed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -9412,7 +9680,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R741-10d-volume-confirmed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -9447,7 +9716,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R742-10d-volume-confirmed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -9482,7 +9752,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R743-10d-volume-confirmed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -9517,7 +9788,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R751-10d-volume-confirmed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -9552,7 +9824,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R752-10d-volume-confirmed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -9587,7 +9860,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R753-10d-volume-confirmed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -9622,7 +9896,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R754-10d-volume-confirmed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -9657,7 +9932,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R755-10d-volume-confirmed-drawdown-from-high"
   },
   {
     "sample_rows": 196935,
@@ -9692,7 +9968,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R770-10d-compressed-rsi-strength"
   },
   {
     "sample_rows": 196935,
@@ -9727,7 +10004,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R771-10d-compressed-rsi-reversal"
   },
   {
     "sample_rows": 196935,
@@ -9762,7 +10040,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R772-10d-compressed-stochastic-position"
   },
   {
     "sample_rows": 196935,
@@ -9797,7 +10076,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R773-10d-compressed-atr-ratio"
   },
   {
     "sample_rows": 196935,
@@ -9832,7 +10112,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R774-10d-compressed-range-ratio"
   },
   {
     "sample_rows": 196935,
@@ -9867,7 +10148,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R775-10d-compressed-realized-volatility"
   },
   {
     "sample_rows": 196935,
@@ -9902,7 +10184,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R776-10d-compressed-downside-volatility"
   },
   {
     "sample_rows": 196935,
@@ -9937,7 +10220,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R784-10d-compressed-gap-sum"
   },
   {
     "sample_rows": 196935,
@@ -9972,7 +10256,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R785-10d-compressed-intraday-return"
   },
   {
     "sample_rows": 196935,
@@ -10007,7 +10292,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R786-10d-compressed-upper-wick-pressure"
   },
   {
     "sample_rows": 196935,
@@ -10042,7 +10328,8 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R787-10d-compressed-lower-wick-support"
   },
   {
     "sample_rows": 196935,
@@ -10077,6 +10364,7 @@
       "slow": 10
     },
     "no_future_check": true,
-    "status": "pass"
+    "status": "pass",
+    "path": "factors/R788-10d-compressed-drawdown-from-high"
   }
 ]
