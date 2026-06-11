@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 196034,
+  "coverage": 0.9954248863838322,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0040118789791370015,
+  "ic_std_5d": 0.15937997666733092,
+  "icir_5d": 0.17870196708778738,
+  "ic_observations": 1406,
+  "long_short_mean_5d": 0.0015262060529759348,
+  "long_short_observations": 1406,
+  "turnover_top_quintile": 0.3719181173436492,
+  "factor_id": "R258",
+  "slug": "5d-compressed-upper-wick-pressure",
+  "name_cn": "5日压缩上影线压力",
+  "name_en": "5D Compressed Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

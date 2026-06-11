@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194845,
+  "coverage": 0.989387361312108,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012525100202153867,
+  "ic_std_5d": 0.1925455034037216,
+  "icir_5d": 0.4618097485157508,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0019685255677470543,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3829688907714923,
+  "factor_id": "R638",
+  "slug": "10d-time-series-ranked-rsi-strength",
+  "name_cn": "10日时序排名RSI强度",
+  "name_en": "10D Time-Series Ranked RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

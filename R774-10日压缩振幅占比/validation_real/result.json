@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.04379043943689433,
+  "ic_std_5d": 0.2313924040702422,
+  "icir_5d": -1.343524137639446,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0006897240959442153,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.11254872822036999,
+  "factor_id": "R774",
+  "slug": "10d-compressed-range-ratio",
+  "name_cn": "10日压缩振幅占比",
+  "name_en": "10D Compressed Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

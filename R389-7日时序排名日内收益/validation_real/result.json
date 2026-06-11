@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0017234225321955678,
+  "ic_std_5d": 0.19602632499795855,
+  "icir_5d": 0.06241552628546229,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0006705822534639267,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.38813107705227173,
+  "factor_id": "R389",
+  "slug": "7d-time-series-ranked-intraday-return",
+  "name_cn": "7日时序排名日内收益",
+  "name_en": "7D Time-Series Ranked Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "rank",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

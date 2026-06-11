@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005787130385640975,
+  "ic_std_5d": 0.15833047334359807,
+  "icir_5d": 0.2594860561227753,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.00114139272872922,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5395915661076705,
+  "factor_id": "R578",
+  "slug": "10d-delta-downside-volatility",
+  "name_cn": "10日变化下行波动率",
+  "name_en": "10D Delta Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

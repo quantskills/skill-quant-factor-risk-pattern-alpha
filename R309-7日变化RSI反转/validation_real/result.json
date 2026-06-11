@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195532,
+  "coverage": 0.9928758219717165,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006539151995505445,
+  "ic_std_5d": 0.2083115743897401,
+  "icir_5d": 0.22285547041286635,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.00055857484384039,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.8300486479496394,
+  "factor_id": "R309",
+  "slug": "7d-delta-rsi-reversal",
+  "name_cn": "7日变化RSI反转",
+  "name_en": "7D Delta RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "delta",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

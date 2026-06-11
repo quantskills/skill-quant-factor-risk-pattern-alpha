@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195532,
+  "coverage": 0.9928758219717165,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.016425731898717526,
+  "ic_std_5d": 0.20879285625600255,
+  "icir_5d": -0.5585015243402909,
+  "ic_observations": 1403,
+  "long_short_mean_5d": -0.0025577506829412705,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.20203188251738602,
+  "factor_id": "R342",
+  "slug": "7d-smoothed-rsi-reversal",
+  "name_cn": "7日平滑RSI反转",
+  "name_en": "7D Smoothed RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "smooth",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

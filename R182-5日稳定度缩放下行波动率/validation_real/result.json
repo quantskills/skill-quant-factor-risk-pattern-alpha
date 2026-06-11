@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195437,
+  "coverage": 0.9923934293040851,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.017431581756310082,
+  "ic_std_5d": 0.16225648920414731,
+  "icir_5d": -0.762693404166062,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0012308281727260557,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.28470579142085495,
+  "factor_id": "R182",
+  "slug": "5d-stability-scaled-downside-volatility",
+  "name_cn": "5日稳定度缩放下行波动率",
+  "name_en": "5D Stability Scaled Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "stability",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

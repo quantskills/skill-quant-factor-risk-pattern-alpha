@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195437,
+  "coverage": 0.9923934293040851,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.010007891607722745,
+  "ic_std_5d": 0.20785740961177718,
+  "icir_5d": 0.3418159707993176,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.002189502954782217,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.318950801981655,
+  "factor_id": "R737",
+  "slug": "10d-volume-confirmed-rsi-strength",
+  "name_cn": "10日量能确认RSI强度",
+  "name_en": "10D Volume Confirmed RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

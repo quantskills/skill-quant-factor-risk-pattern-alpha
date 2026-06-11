@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194845,
+  "coverage": 0.989387361312108,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.01250531226786755,
+  "ic_std_5d": 0.20902051532585886,
+  "icir_5d": -0.4247377821680806,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.0018674604657550825,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.25715763568092753,
+  "factor_id": "R705",
+  "slug": "10d-stability-scaled-rsi-reversal",
+  "name_cn": "10日稳定度缩放RSI反转",
+  "name_en": "10D Stability Scaled RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

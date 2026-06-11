@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195008,
+  "coverage": 0.9902150455734126,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.02295909434439248,
+  "ic_std_5d": 0.14366706476420607,
+  "icir_5d": -1.1345216868909922,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.002199840731482728,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.18420052268947493,
+  "factor_id": "R710",
+  "slug": "10d-stability-scaled-downside-volatility",
+  "name_cn": "10日稳定度缩放下行波动率",
+  "name_en": "10D Stability Scaled Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

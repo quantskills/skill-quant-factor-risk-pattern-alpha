@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.02605558200334597,
+  "ic_std_5d": 0.2081791646990388,
+  "icir_5d": -0.8885436858183399,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0012886198172079367,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.3759794103077685,
+  "factor_id": "R476",
+  "slug": "7d-volume-confirmed-atr-ratio",
+  "name_cn": "7日量能确认ATR占比",
+  "name_en": "7D Volume Confirmed ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

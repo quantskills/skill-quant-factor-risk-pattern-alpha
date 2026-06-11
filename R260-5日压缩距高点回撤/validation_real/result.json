@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 196047,
+  "coverage": 0.9954908980120344,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.011780655955222924,
+  "ic_std_5d": 0.20810076761403565,
+  "icir_5d": 0.4018935710469474,
+  "ic_observations": 1406,
+  "long_short_mean_5d": 0.0002945268999501455,
+  "long_short_observations": 1406,
+  "turnover_top_quintile": 0.5220804097859205,
+  "factor_id": "R260",
+  "slug": "5d-compressed-drawdown-from-high",
+  "name_cn": "5日压缩距高点回撤",
+  "name_en": "5D Compressed Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195189,
+  "coverage": 0.9911341305506893,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004050586123807295,
+  "ic_std_5d": 0.19453526036684846,
+  "icir_5d": 0.1478205480995295,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0005755055803855694,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.4085325533430128,
+  "factor_id": "R011",
+  "slug": "5d-z-scored-rsi-strength",
+  "name_cn": "5日标准化RSI强度",
+  "name_en": "5D Z-Scored RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195302,
+  "coverage": 0.9917079239342931,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006021799767717196,
+  "ic_std_5d": 0.16664846155293328,
+  "icir_5d": 0.2565312457014178,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0006051829559510691,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.37947158416909305,
+  "factor_id": "R025",
+  "slug": "5d-z-scored-gap-sum",
+  "name_cn": "5日标准化缺口累积",
+  "name_en": "5D Z-Scored Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

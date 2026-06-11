@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00399215379246278,
+  "ic_std_5d": 0.14697906939046693,
+  "icir_5d": 0.19282664211081504,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.000678288639846963,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.3688607007704333,
+  "factor_id": "R655",
+  "slug": "10d-time-series-ranked-lower-wick-support",
+  "name_cn": "10日时序排名下影线支撑",
+  "name_en": "10D Time-Series Ranked Lower Wick Support",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "lower_wick",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

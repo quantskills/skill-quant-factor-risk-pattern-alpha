@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194845,
+  "coverage": 0.989387361312108,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.012423714641819386,
+  "ic_std_5d": 0.19251088046537398,
+  "icir_5d": -0.45815397142720815,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.0012784071675489654,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.3763375951659838,
+  "factor_id": "R639",
+  "slug": "10d-time-series-ranked-rsi-reversal",
+  "name_cn": "10日时序排名RSI反转",
+  "name_en": "10D Time-Series Ranked RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195437,
+  "coverage": 0.9923934293040851,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.01854953971235618,
+  "ic_std_5d": 0.1946534365171564,
+  "icir_5d": -0.6765288638615012,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0024357378233040767,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3017870493823307,
+  "factor_id": "R408",
+  "slug": "7d-volatility-scaled-rsi-reversal",
+  "name_cn": "7日波动缩放RSI反转",
+  "name_en": "7D Volatility Scaled RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

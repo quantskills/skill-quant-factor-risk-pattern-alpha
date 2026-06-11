@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.042430566542778325,
+  "ic_std_5d": 0.22885648706380207,
+  "icir_5d": -1.3162272311164793,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0006384540923588311,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.13818956061681398,
+  "factor_id": "R510",
+  "slug": "7d-compressed-range-ratio",
+  "name_cn": "7日压缩振幅占比",
+  "name_en": "7D Compressed Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

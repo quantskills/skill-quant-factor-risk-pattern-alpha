@@ -1,0 +1,14 @@
+interface:
+  display_name: "7日量能确认日内收益"
+  short_description: "Real-data validated Pattern OHLCV factor."
+  default_prompt: "Use $quant-real-factor-7d-volume-confirmed-intraday-return to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-risk-pattern-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha"
+  collection: "risk-pattern-alpha"
+  factor_id: "R488"
+  category: "Pattern"

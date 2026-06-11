@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195751,
+  "coverage": 0.9939878640160459,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.03628300173479268,
+  "ic_std_5d": 0.20899196302766643,
+  "icir_5d": -1.2325055753744525,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.00013050146638211963,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.18222172004132228,
+  "factor_id": "R082",
+  "slug": "5d-smoothed-realized-volatility",
+  "name_cn": "5日平滑实现波动率",
+  "name_en": "5D Smoothed Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

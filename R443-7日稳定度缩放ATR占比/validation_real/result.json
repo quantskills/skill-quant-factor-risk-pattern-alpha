@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.000275821439387434,
+  "ic_std_5d": 0.14626159499720265,
+  "icir_5d": 0.013387916148487044,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0003507169220149766,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.17412380028038388,
+  "factor_id": "R443",
+  "slug": "7d-stability-scaled-atr-ratio",
+  "name_cn": "7日稳定度缩放ATR占比",
+  "name_en": "7D Stability Scaled ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007031348870783818,
+  "ic_std_5d": 0.1632043534122102,
+  "icir_5d": 0.3058596418488843,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.001194867712057146,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.3789820296951671,
+  "factor_id": "R388",
+  "slug": "7d-time-series-ranked-gap-sum",
+  "name_cn": "7日时序排名缺口累积",
+  "name_en": "7D Time-Series Ranked Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "rank",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

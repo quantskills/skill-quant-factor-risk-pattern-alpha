@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.028283040646267292,
+  "ic_std_5d": 0.2063612525207431,
+  "icir_5d": -0.9730008299216777,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0012243615816518567,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.3791809351510844,
+  "factor_id": "R477",
+  "slug": "7d-volume-confirmed-range-ratio",
+  "name_cn": "7日量能确认振幅占比",
+  "name_en": "7D Volume Confirmed Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.003375258271999829,
+  "ic_std_5d": 0.1821190369089294,
+  "icir_5d": 0.13157304737364692,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.002208290586229151,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.2606589775157131,
+  "factor_id": "R543",
+  "slug": "10d-z-scored-range-ratio",
+  "name_cn": "10日标准化振幅占比",
+  "name_en": "10D Z-Scored Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

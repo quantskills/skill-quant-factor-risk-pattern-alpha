@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008170677565688395,
+  "ic_std_5d": 0.2115513565838279,
+  "icir_5d": 0.274193734180705,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.002162961962417813,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.24789341247822438,
+  "factor_id": "R092",
+  "slug": "5d-smoothed-intraday-return",
+  "name_cn": "5日平滑日内收益",
+  "name_en": "5D Smoothed Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

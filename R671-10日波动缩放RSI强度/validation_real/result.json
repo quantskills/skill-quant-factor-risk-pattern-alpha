@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195437,
+  "coverage": 0.9923934293040851,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01914117075442186,
+  "ic_std_5d": 0.19768216653453868,
+  "icir_5d": 0.6874106773125086,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0025898937116608477,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.2598743851919895,
+  "factor_id": "R671",
+  "slug": "10d-volatility-scaled-rsi-strength",
+  "name_cn": "10日波动缩放RSI强度",
+  "name_en": "10D Volatility Scaled RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0027010882962321104,
+  "ic_std_5d": 0.17063163196099093,
+  "icir_5d": 0.11238141728862339,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0017145770166673148,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.3514962813523406,
+  "factor_id": "R114",
+  "slug": "5d-time-series-ranked-range-ratio",
+  "name_cn": "5日时序排名振幅占比",
+  "name_en": "5D Time-Series Ranked Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

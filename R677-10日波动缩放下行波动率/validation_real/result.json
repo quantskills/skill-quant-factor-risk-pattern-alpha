@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.01047916225050424,
+  "ic_std_5d": 0.1726434254375424,
+  "icir_5d": -0.4309151752074596,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0024899783547404864,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.22392667787404627,
+  "factor_id": "R677",
+  "slug": "10d-volatility-scaled-downside-volatility",
+  "name_cn": "10日波动缩放下行波动率",
+  "name_en": "10D Volatility Scaled Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

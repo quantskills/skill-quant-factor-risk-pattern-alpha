@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195297,
+  "coverage": 0.9916825348465229,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.02090444493100355,
+  "ic_std_5d": 0.15288579301688549,
+  "icir_5d": -0.9707039085278801,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.0017234656151379523,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.2262708939933139,
+  "factor_id": "R446",
+  "slug": "7d-stability-scaled-downside-volatility",
+  "name_cn": "7日稳定度缩放下行波动率",
+  "name_en": "7D Stability Scaled Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

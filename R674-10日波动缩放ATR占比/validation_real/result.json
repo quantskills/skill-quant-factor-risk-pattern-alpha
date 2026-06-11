@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0059521354206465505,
+  "ic_std_5d": 0.17094550141632503,
+  "icir_5d": -0.24718971417164445,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.00032082881819953005,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.22945385576964522,
+  "factor_id": "R674",
+  "slug": "10d-volatility-scaled-atr-ratio",
+  "name_cn": "10日波动缩放ATR占比",
+  "name_en": "10D Volatility Scaled ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

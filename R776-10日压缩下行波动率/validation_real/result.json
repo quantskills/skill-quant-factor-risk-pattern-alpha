@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.036112082676864055,
+  "ic_std_5d": 0.21416272947532225,
+  "icir_5d": -1.1970820288308013,
+  "ic_observations": 1403,
+  "long_short_mean_5d": -0.001129926207665401,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.1539499472335293,
+  "factor_id": "R776",
+  "slug": "10d-compressed-downside-volatility",
+  "name_cn": "10日压缩下行波动率",
+  "name_en": "10D Compressed Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

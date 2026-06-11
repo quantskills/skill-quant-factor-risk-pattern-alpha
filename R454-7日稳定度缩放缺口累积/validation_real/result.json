@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195152,
+  "coverage": 0.9909462513011907,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01766246272158447,
+  "ic_std_5d": 0.17481679393722768,
+  "icir_5d": 0.7172711701675789,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.0011164950707921403,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.30859880859880856,
+  "factor_id": "R454",
+  "slug": "7d-stability-scaled-gap-sum",
+  "name_cn": "7日稳定度缩放缺口累积",
+  "name_en": "7D Stability Scaled Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

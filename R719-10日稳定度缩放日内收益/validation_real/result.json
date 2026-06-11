@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00958346645624924,
+  "ic_std_5d": 0.20391257756916453,
+  "icir_5d": 0.3336521140365579,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.002081593684753051,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.2880364586708136,
+  "factor_id": "R719",
+  "slug": "10d-stability-scaled-intraday-return",
+  "name_cn": "10日稳定度缩放日内收益",
+  "name_en": "10D Stability Scaled Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

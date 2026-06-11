@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195288,
+  "coverage": 0.9916368344885368,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.004414076407340878,
+  "ic_std_5d": 0.15038253546725092,
+  "icir_5d": -0.20838080523157496,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.00025441339401084673,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5819229257330508,
+  "factor_id": "R589",
+  "slug": "10d-delta-lower-wick-support",
+  "name_cn": "10日变化下影线支撑",
+  "name_en": "10D Delta Lower Wick Support",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "lower_wick",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

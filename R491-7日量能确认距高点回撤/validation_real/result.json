@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.013828023770795665,
+  "ic_std_5d": 0.20733307979274837,
+  "icir_5d": 0.47348561234358194,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0006717873601733834,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.48556115904829783,
+  "factor_id": "R491",
+  "slug": "7d-volume-confirmed-drawdown-from-high",
+  "name_cn": "7日量能确认距高点回撤",
+  "name_en": "7D Volume Confirmed Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

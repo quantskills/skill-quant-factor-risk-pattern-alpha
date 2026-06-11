@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0002743043921970711,
+  "ic_std_5d": 0.16038145634391462,
+  "icir_5d": 0.012142102006700689,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0013372551981069495,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.26037378755618645,
+  "factor_id": "R093",
+  "slug": "5d-smoothed-upper-wick-pressure",
+  "name_cn": "5日平滑上影线压力",
+  "name_en": "5D Smoothed Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

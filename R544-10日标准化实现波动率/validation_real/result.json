@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194863,
+  "coverage": 0.9894787620280804,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0043332630617194355,
+  "ic_std_5d": 0.14940922263007267,
+  "icir_5d": -0.20589837395323493,
+  "ic_observations": 1398,
+  "long_short_mean_5d": 0.0007170820306758237,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.2667801409242208,
+  "factor_id": "R544",
+  "slug": "10d-z-scored-realized-volatility",
+  "name_cn": "10日标准化实现波动率",
+  "name_en": "10D Z-Scored Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0034304556640645753,
+  "ic_std_5d": 0.19858813489269123,
+  "icir_5d": 0.12263481549061425,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0006985216147358281,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.35657608109565403,
+  "factor_id": "R290",
+  "slug": "7d-z-scored-intraday-return",
+  "name_cn": "7日标准化日内收益",
+  "name_en": "7D Z-Scored Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

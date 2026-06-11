@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.000711562226152774,
+  "ic_std_5d": 0.17405033498521102,
+  "icir_5d": 0.02902373431858647,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0011827087885790365,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.4756065998058881,
+  "factor_id": "R576",
+  "slug": "10d-delta-range-ratio",
+  "name_cn": "10日变化振幅占比",
+  "name_en": "10D Delta Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

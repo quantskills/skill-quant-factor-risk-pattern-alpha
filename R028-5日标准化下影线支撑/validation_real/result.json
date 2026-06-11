@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195442,
+  "coverage": 0.9924188183918552,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0013597388774150229,
+  "ic_std_5d": 0.15087587560520352,
+  "icir_5d": 0.06398099352094547,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.00029363678879678956,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.4018341307814992,
+  "factor_id": "R028",
+  "slug": "5d-z-scored-lower-wick-support",
+  "name_cn": "5日标准化下影线支撑",
+  "name_en": "5D Z-Scored Lower Wick Support",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "lower_wick",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

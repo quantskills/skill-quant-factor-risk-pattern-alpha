@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195680,
+  "coverage": 0.9936273389697108,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012004449085101312,
+  "ic_std_5d": 0.20749018487664075,
+  "icir_5d": 0.41073332841361926,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.0021055505669946026,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.31138664268072574,
+  "factor_id": "R506",
+  "slug": "7d-compressed-rsi-strength",
+  "name_cn": "7日压缩RSI强度",
+  "name_en": "7D Compressed RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

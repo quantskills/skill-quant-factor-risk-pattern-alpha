@@ -1,0 +1,14 @@
+interface:
+  display_name: "5日压缩实现波动率"
+  short_description: "Real-data validated Volatility OHLCV factor."
+  default_prompt: "Use $quant-real-factor-5d-compressed-realized-volatility to compute this factor from my OHLCV DataFrame."
+policy:
+  allow_implicit_invocation: true
+metadata:
+  organization: "QuantSkills"
+  organization_url: "https://github.com/quantskills"
+  repository: "skill-quant-factor-risk-pattern-alpha"
+  repository_url: "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha"
+  collection: "risk-pattern-alpha"
+  factor_id: "R247"
+  category: "Volatility"

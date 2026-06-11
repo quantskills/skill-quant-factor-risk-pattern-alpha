@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195783,
+  "coverage": 0.9941503541777744,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.009975633373248678,
+  "ic_std_5d": 0.2055619020827846,
+  "icir_5d": -0.34451895409679334,
+  "ic_observations": 1405,
+  "long_short_mean_5d": -0.0019212332675005227,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.35245771204339116,
+  "factor_id": "R243",
+  "slug": "5d-compressed-rsi-reversal",
+  "name_cn": "5日压缩RSI反转",
+  "name_en": "5D Compressed RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "compress",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

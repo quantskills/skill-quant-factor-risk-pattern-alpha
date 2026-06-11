@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004031854033510753,
+  "ic_std_5d": 0.2101973409501936,
+  "icir_5d": 0.13617357876119016,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.00216876728204806,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.2951960974349034,
+  "factor_id": "R752",
+  "slug": "10d-volume-confirmed-intraday-return",
+  "name_cn": "10日量能确认日内收益",
+  "name_en": "10D Volume Confirmed Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

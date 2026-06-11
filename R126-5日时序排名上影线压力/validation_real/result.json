@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007712726834867359,
+  "ic_std_5d": 0.1483197299385018,
+  "icir_5d": 0.3691682069748751,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0007382597186889924,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.420568342237584,
+  "factor_id": "R126",
+  "slug": "5d-time-series-ranked-upper-wick-pressure",
+  "name_cn": "5日时序排名上影线压力",
+  "name_en": "5D Time-Series Ranked Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

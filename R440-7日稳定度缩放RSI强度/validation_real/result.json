@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195087,
+  "coverage": 0.9906161931601798,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012416172660681525,
+  "ic_std_5d": 0.2057353960284473,
+  "icir_5d": 0.42844393028708827,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.001921162439429408,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.31901020140164454,
+  "factor_id": "R440",
+  "slug": "7d-stability-scaled-rsi-strength",
+  "name_cn": "7日稳定度缩放RSI强度",
+  "name_en": "7D Stability Scaled RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

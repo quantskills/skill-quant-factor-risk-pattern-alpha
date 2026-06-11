@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.03944636778200967,
+  "ic_std_5d": 0.2294887280703272,
+  "icir_5d": -1.2202840335426506,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.000570804125033379,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.12885992644686753,
+  "factor_id": "R080",
+  "slug": "5d-smoothed-atr-ratio",
+  "name_cn": "5日平滑ATR占比",
+  "name_en": "5D Smoothed ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

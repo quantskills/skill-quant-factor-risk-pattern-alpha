@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005311455793484794,
+  "ic_std_5d": 0.18627575432693214,
+  "icir_5d": 0.20242889700081285,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0006679194951131894,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.46583834139485175,
+  "factor_id": "R656",
+  "slug": "10d-time-series-ranked-drawdown-from-high",
+  "name_cn": "10日时序排名距高点回撤",
+  "name_en": "10D Time-Series Ranked Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

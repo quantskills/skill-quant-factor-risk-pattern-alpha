@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.005477191236104818,
+  "ic_std_5d": 0.19616649137842784,
+  "icir_5d": -0.19822040010439915,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.0009439406920342312,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.5595530150397925,
+  "factor_id": "R590",
+  "slug": "10d-delta-drawdown-from-high",
+  "name_cn": "10日变化距高点回撤",
+  "name_en": "10D Delta Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

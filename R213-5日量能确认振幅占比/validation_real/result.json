@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0275388193125678,
+  "ic_std_5d": 0.20446469550382568,
+  "icir_5d": -0.9561857226298547,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0010616049342493585,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.37647046154508845,
+  "factor_id": "R213",
+  "slug": "5d-volume-confirmed-range-ratio",
+  "name_cn": "5日量能确认振幅占比",
+  "name_en": "5D Volume Confirmed Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

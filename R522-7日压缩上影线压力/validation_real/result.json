@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195887,
+  "coverage": 0.9946784472033919,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0025756290789067013,
+  "ic_std_5d": 0.158273934249249,
+  "icir_5d": 0.11552851474700022,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.001538575614745731,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.3228702927070564,
+  "factor_id": "R522",
+  "slug": "7d-compressed-upper-wick-pressure",
+  "name_cn": "7日压缩上影线压力",
+  "name_en": "7D Compressed Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

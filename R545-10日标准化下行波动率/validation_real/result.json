@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195008,
+  "coverage": 0.9902150455734126,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.007650866677040172,
+  "ic_std_5d": 0.16498462838483627,
+  "icir_5d": -0.3292171260875213,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.000497886046053891,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.2314542430722046,
+  "factor_id": "R545",
+  "slug": "10d-z-scored-downside-volatility",
+  "name_cn": "10日标准化下行波动率",
+  "name_en": "10D Z-Scored Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

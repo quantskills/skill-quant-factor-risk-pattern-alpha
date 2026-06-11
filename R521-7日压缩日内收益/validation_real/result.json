@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004982893047935075,
+  "ic_std_5d": 0.2111131726626415,
+  "icir_5d": 0.1675643018411401,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.001964975086296589,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.3049196722369185,
+  "factor_id": "R521",
+  "slug": "7d-compressed-intraday-return",
+  "name_cn": "7日压缩日内收益",
+  "name_en": "7D Compressed Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

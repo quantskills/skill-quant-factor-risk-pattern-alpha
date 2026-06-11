@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0011321853913807808,
+  "ic_std_5d": 0.17412927067559517,
+  "icir_5d": -0.04615949342931919,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0015717573096814526,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.304110580740691,
+  "factor_id": "R641",
+  "slug": "10d-time-series-ranked-atr-ratio",
+  "name_cn": "10日时序排名ATR占比",
+  "name_en": "10D Time-Series Ranked ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

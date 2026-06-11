@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.03538304165276829,
+  "ic_std_5d": 0.21858573767460263,
+  "icir_5d": -1.1491814586629505,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0005367028515047944,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.15576317944738996,
+  "factor_id": "R775",
+  "slug": "10d-compressed-realized-volatility",
+  "name_cn": "10日压缩实现波动率",
+  "name_en": "10D Compressed Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

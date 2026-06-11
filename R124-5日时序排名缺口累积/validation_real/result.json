@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006035524399097058,
+  "ic_std_5d": 0.16865187328971631,
+  "icir_5d": 0.2540616467382919,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0009356034032097175,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.41121223627220516,
+  "factor_id": "R124",
+  "slug": "5d-time-series-ranked-gap-sum",
+  "name_cn": "5日时序排名缺口累积",
+  "name_en": "5D Time-Series Ranked Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0046168092287439235,
+  "ic_std_5d": 0.17378969154188115,
+  "icir_5d": -0.18859630739847974,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0009672696431342502,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.24896870554765288,
+  "factor_id": "R410",
+  "slug": "7d-volatility-scaled-atr-ratio",
+  "name_cn": "7日波动缩放ATR占比",
+  "name_en": "7D Volatility Scaled ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

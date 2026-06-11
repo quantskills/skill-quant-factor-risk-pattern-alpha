@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195141,
+  "coverage": 0.9908903953080965,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006059439487745191,
+  "ic_std_5d": 0.20095269699943932,
+  "icir_5d": 0.21406904999417753,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.0008050396416242104,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.5995863066265364,
+  "factor_id": "R573",
+  "slug": "10d-delta-rsi-reversal",
+  "name_cn": "10日变化RSI反转",
+  "name_en": "10D Delta RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

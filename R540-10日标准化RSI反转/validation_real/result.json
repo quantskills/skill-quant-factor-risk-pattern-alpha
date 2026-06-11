@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194845,
+  "coverage": 0.989387361312108,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.01399989070798612,
+  "ic_std_5d": 0.1942576845662724,
+  "icir_5d": -0.5116367194515676,
+  "ic_observations": 1398,
+  "long_short_mean_5d": -0.0019358504187614778,
+  "long_short_observations": 1398,
+  "turnover_top_quintile": 0.35044107760670307,
+  "factor_id": "R540",
+  "slug": "10d-z-scored-rsi-reversal",
+  "name_cn": "10日标准化RSI反转",
+  "name_en": "10D Z-Scored RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "z",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.005580968551985965,
+  "ic_std_5d": 0.15871460023210102,
+  "icir_5d": 0.24963643046500966,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0006429857913608809,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.1559169744486922,
+  "factor_id": "R708",
+  "slug": "10d-stability-scaled-range-ratio",
+  "name_cn": "10日稳定度缩放振幅占比",
+  "name_en": "10D Stability Scaled Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

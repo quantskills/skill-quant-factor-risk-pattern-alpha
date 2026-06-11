@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195567,
+  "coverage": 0.9930535455861071,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0066027906006380825,
+  "ic_std_5d": 0.20386531146751763,
+  "icir_5d": 0.22993202150940178,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0015777644578910143,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.39852008802086003,
+  "factor_id": "R209",
+  "slug": "5d-volume-confirmed-rsi-strength",
+  "name_cn": "5日量能确认RSI强度",
+  "name_en": "5D Volume Confirmed RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

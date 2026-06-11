@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.008229685826940983,
+  "ic_std_5d": 0.19965932467848807,
+  "icir_5d": 0.2926233153623768,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0009692622109944082,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.48060929485748627,
+  "factor_id": "R425",
+  "slug": "7d-volatility-scaled-drawdown-from-high",
+  "name_cn": "7日波动缩放距高点回撤",
+  "name_en": "7D Volatility Scaled Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

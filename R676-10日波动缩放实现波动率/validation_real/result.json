@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.008845385499172905,
+  "ic_std_5d": 0.1541047638693666,
+  "icir_5d": -0.40748907440451926,
+  "ic_observations": 1396,
+  "long_short_mean_5d": -0.00012701290665889886,
+  "long_short_observations": 1396,
+  "turnover_top_quintile": 0.2800681818181818,
+  "factor_id": "R676",
+  "slug": "10d-volatility-scaled-realized-volatility",
+  "name_cn": "10日波动缩放实现波动率",
+  "name_en": "10D Volatility Scaled Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195289,
+  "coverage": 0.9916419123060909,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.01463839135554718,
+  "ic_std_5d": 0.21261442477788692,
+  "icir_5d": -0.4887827789452597,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.002410208100076718,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.17422520703414063,
+  "factor_id": "R606",
+  "slug": "10d-smoothed-rsi-reversal",
+  "name_cn": "10日平滑RSI反转",
+  "name_en": "10D Smoothed RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

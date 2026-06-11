@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004226628065637625,
+  "ic_std_5d": 0.1883538996718848,
+  "icir_5d": 0.1593069358905298,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0012598243249958866,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.3732097042299588,
+  "factor_id": "R653",
+  "slug": "10d-time-series-ranked-intraday-return",
+  "name_cn": "10日时序排名日内收益",
+  "name_en": "10D Time-Series Ranked Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

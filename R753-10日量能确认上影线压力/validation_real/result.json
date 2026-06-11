@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195588,
+  "coverage": 0.9931601797547414,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004134065000809248,
+  "ic_std_5d": 0.16538557262829817,
+  "icir_5d": 0.17745774060915287,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0024152567678830464,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.49217440933858847,
+  "factor_id": "R753",
+  "slug": "10d-volume-confirmed-upper-wick-pressure",
+  "name_cn": "10日量能确认上影线压力",
+  "name_en": "10D Volume Confirmed Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

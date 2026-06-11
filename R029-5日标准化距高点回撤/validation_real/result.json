@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195437,
+  "coverage": 0.9923934293040851,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.004683146394906162,
+  "ic_std_5d": 0.19346582157908443,
+  "icir_5d": -0.1718496888932374,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.0006080380376989967,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.5289847511263119,
+  "factor_id": "R029",
+  "slug": "5d-z-scored-drawdown-from-high",
+  "name_cn": "5日标准化距高点回撤",
+  "name_en": "5D Z-Scored Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "z",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

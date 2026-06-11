@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195680,
+  "coverage": 0.9936273389697108,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.012004449085101312,
+  "ic_std_5d": 0.20749018487664075,
+  "icir_5d": -0.41073332841361926,
+  "ic_observations": 1404,
+  "long_short_mean_5d": -0.0021052287022077522,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.30360108645889405,
+  "factor_id": "R507",
+  "slug": "7d-compressed-rsi-reversal",
+  "name_cn": "7日压缩RSI反转",
+  "name_en": "7D Compressed RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "compress",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

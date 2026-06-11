@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.001566251925315949,
+  "ic_std_5d": 0.1468746814276858,
+  "icir_5d": -0.07570593864537269,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 6.171329254901405e-05,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.15548391973908723,
+  "factor_id": "R707",
+  "slug": "10d-stability-scaled-atr-ratio",
+  "name_cn": "10日稳定度缩放ATR占比",
+  "name_en": "10D Stability Scaled ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

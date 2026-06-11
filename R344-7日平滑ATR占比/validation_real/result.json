@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195751,
+  "coverage": 0.9939878640160459,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.04000678075125768,
+  "ic_std_5d": 0.23034785676206743,
+  "icir_5d": -1.2330046050338088,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.000675525728322829,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.11015624999999997,
+  "factor_id": "R344",
+  "slug": "7d-smoothed-atr-ratio",
+  "name_cn": "7日平滑ATR占比",
+  "name_en": "7D Smoothed ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "smooth",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

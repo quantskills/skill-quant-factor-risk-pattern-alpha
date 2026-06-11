@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.003897944776233241,
+  "ic_std_5d": 0.20945871123232532,
+  "icir_5d": 0.13211511987620791,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0020695357133145593,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.32865003984406965,
+  "factor_id": "R488",
+  "slug": "7d-volume-confirmed-intraday-return",
+  "name_cn": "7日量能确认日内收益",
+  "name_en": "7D Volume Confirmed Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

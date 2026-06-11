@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.00174681340980998,
+  "ic_std_5d": 0.15960035282076998,
+  "icir_5d": 0.07770123799334797,
+  "ic_observations": 1400,
+  "long_short_mean_5d": 0.0012126703459770611,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.5321192696192696,
+  "factor_id": "R577",
+  "slug": "10d-delta-realized-volatility",
+  "name_cn": "10日变化实现波动率",
+  "name_en": "10D Delta Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "delta",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195011,
+  "coverage": 0.9902302790260746,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.008340484906748043,
+  "ic_std_5d": 0.15786995463353135,
+  "icir_5d": -0.3750654714706243,
+  "ic_observations": 1399,
+  "long_short_mean_5d": -0.00048463828180836366,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.32325433888340077,
+  "factor_id": "R644",
+  "slug": "10d-time-series-ranked-downside-volatility",
+  "name_cn": "10日时序排名下行波动率",
+  "name_en": "10D Time-Series Ranked Downside Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "downside_vol",
+  "transform": "rank",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

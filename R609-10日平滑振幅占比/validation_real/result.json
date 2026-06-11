@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.04373782663226962,
+  "ic_std_5d": 0.2317504273459408,
+  "icir_5d": -1.339836866024671,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0005463014933864746,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.09124746756325702,
+  "factor_id": "R609",
+  "slug": "10d-smoothed-range-ratio",
+  "name_cn": "10日平滑振幅占比",
+  "name_en": "10D Smoothed Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

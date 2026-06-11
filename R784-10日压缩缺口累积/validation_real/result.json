@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.013011007351518583,
+  "ic_std_5d": 0.1888278096436981,
+  "icir_5d": 0.48917047353558707,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0006959649906718276,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.24695353247984825,
+  "factor_id": "R784",
+  "slug": "10d-compressed-gap-sum",
+  "name_cn": "10日压缩缺口累积",
+  "name_en": "10D Compressed Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

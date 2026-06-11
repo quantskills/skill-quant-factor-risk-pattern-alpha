@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0022810975161127365,
+  "ic_std_5d": 0.19691426394781192,
+  "icir_5d": -0.08223978067081981,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0003075686076656892,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.42122948344281924,
+  "factor_id": "R125",
+  "slug": "5d-time-series-ranked-intraday-return",
+  "name_cn": "5日时序排名日内收益",
+  "name_en": "5D Time-Series Ranked Intraday Return",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "intraday",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

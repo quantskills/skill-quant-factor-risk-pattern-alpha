@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195440,
+  "coverage": 0.9924086627567471,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.025559470035276935,
+  "ic_std_5d": 0.21423073232826623,
+  "icir_5d": 0.8470037643940275,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 1.3707332994489951e-05,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.17154403207034782,
+  "factor_id": "R687",
+  "slug": "10d-volatility-scaled-upper-wick-pressure",
+  "name_cn": "10日波动缩放上影线压力",
+  "name_en": "10D Volatility Scaled Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

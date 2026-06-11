@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.006182222501747538,
+  "ic_std_5d": 0.1472136529966352,
+  "icir_5d": -0.2981342081746843,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0005448872639190187,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.3727170889905704,
+  "factor_id": "R115",
+  "slug": "5d-time-series-ranked-realized-volatility",
+  "name_cn": "5日时序排名实现波动率",
+  "name_en": "5D Time-Series Ranked Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "rank",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

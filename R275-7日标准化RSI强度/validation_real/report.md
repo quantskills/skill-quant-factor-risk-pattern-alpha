@@ -1,0 +1,19 @@
+# Real Data Validation Report - 7日标准化RSI强度
+
+| Metric | Value |
+|---|---:|
+| Sample rows | 196935 |
+| Usable rows | 195087 |
+| Coverage | 0.990616 |
+| Markets | {"cn": 98, "us": 50} |
+| 5D Rank IC mean | 0.009281 |
+| 5D Rank IC std | 0.194279 |
+| 5D ICIR | 0.339161 |
+| IC observations | 1400 |
+| Q5-Q1 mean 5D return | 0.001228 |
+| Spread observations | 1400 |
+| Top quintile turnover | 0.378696 |
+| No-lookahead check | True |
+| Status | pass |
+
+This report is computed from cached real OHLCV data in `real_market_data/`.

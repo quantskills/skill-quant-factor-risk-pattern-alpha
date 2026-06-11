@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195635,
+  "coverage": 0.9933988371797802,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.015573160750393625,
+  "ic_std_5d": 0.20657210444157023,
+  "icir_5d": -0.5352052450068782,
+  "ic_observations": 1404,
+  "long_short_mean_5d": -0.002453839079891171,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.23297745210269064,
+  "factor_id": "R078",
+  "slug": "5d-smoothed-rsi-reversal",
+  "name_cn": "5日平滑RSI反转",
+  "name_en": "5D Smoothed RSI Reversal",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi_reversal",
+  "transform": "smooth",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

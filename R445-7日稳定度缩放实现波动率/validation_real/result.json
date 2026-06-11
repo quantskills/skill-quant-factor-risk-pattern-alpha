@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195159,
+  "coverage": 0.9909817960240689,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.005277899194670478,
+  "ic_std_5d": 0.137289994744293,
+  "icir_5d": -0.2729213249456467,
+  "ic_observations": 1400,
+  "long_short_mean_5d": -0.0009056551388285669,
+  "long_short_observations": 1400,
+  "turnover_top_quintile": 0.23817555900889234,
+  "factor_id": "R445",
+  "slug": "7d-stability-scaled-realized-volatility",
+  "name_cn": "7日稳定度缩放实现波动率",
+  "name_en": "7D Stability Scaled Realized Volatility",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "realized_vol",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

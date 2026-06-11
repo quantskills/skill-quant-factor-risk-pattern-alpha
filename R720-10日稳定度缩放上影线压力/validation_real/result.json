@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 194996,
+  "coverage": 0.9901541117627644,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0009205925642787523,
+  "ic_std_5d": 0.11826756281022048,
+  "icir_5d": 0.05526078930102753,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0007124707653426608,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.2013348020475604,
+  "factor_id": "R720",
+  "slug": "10d-stability-scaled-upper-wick-pressure",
+  "name_cn": "10日稳定度缩放上影线压力",
+  "name_en": "10D Stability Scaled Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

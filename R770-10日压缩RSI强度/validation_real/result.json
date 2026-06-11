@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195437,
+  "coverage": 0.9923934293040851,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012224556367406231,
+  "ic_std_5d": 0.2104555865904674,
+  "icir_5d": 0.41237081108218676,
+  "ic_observations": 1402,
+  "long_short_mean_5d": 0.0022461184617121824,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.26995132816366935,
+  "factor_id": "R770",
+  "slug": "10d-compressed-rsi-strength",
+  "name_cn": "10日压缩RSI强度",
+  "name_en": "10D Compressed RSI Strength",
+  "category_cn": "震荡",
+  "category_en": "Oscillator",
+  "base": "rsi",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

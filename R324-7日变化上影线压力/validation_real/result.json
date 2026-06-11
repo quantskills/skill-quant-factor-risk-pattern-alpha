@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195737,
+  "coverage": 0.9939167745702897,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.01059580645563909,
+  "ic_std_5d": 0.15805027860240065,
+  "icir_5d": 0.4759419869081384,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.0005008504989609757,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.8039586876535304,
+  "factor_id": "R324",
+  "slug": "7d-delta-upper-wick-pressure",
+  "name_cn": "7日变化上影线压力",
+  "name_en": "7D Delta Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "delta",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

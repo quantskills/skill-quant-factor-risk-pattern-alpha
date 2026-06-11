@@ -1,0 +1,42 @@
+{
+  "repo": "skill-quant-factor-risk-pattern-alpha",
+  "factor_count": 288,
+  "id_range": [
+    "R011",
+    "R788"
+  ],
+  "categories": {
+    "Oscillator": 72,
+    "Volatility": 96,
+    "Pattern": 96,
+    "Drawdown": 24
+  },
+  "bases": {
+    "rsi": 24,
+    "rsi_reversal": 24,
+    "stoch": 24,
+    "atr_ratio": 24,
+    "range_ratio": 24,
+    "realized_vol": 24,
+    "downside_vol": 24,
+    "gap_sum": 24,
+    "intraday": 24,
+    "upper_wick": 24,
+    "lower_wick": 24,
+    "drawdown": 24
+  },
+  "validation_pass": 288,
+  "markets": {
+    "{\"cn\": 98, \"us\": 50}": 288
+  },
+  "organization": "QuantSkills",
+  "repository": "skill-quant-factor-risk-pattern-alpha",
+  "collection": "risk-pattern-alpha",
+  "related_repositories": [
+    "skill-quant-factor-directional-alpha",
+    "skill-quant-factor-risk-pattern-alpha",
+    "skill-quant-factor-volume-stat-alpha"
+  ],
+  "organization_url": "https://github.com/quantskills",
+  "github_url": "https://github.com/quantskills/skill-quant-factor-risk-pattern-alpha"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195588,
+  "coverage": 0.9931601797547414,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.009832166134515239,
+  "ic_std_5d": 0.15945934939842424,
+  "icir_5d": 0.43773824121515287,
+  "ic_observations": 1403,
+  "long_short_mean_5d": -0.0006598798697942808,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.26711895070104025,
+  "factor_id": "R787",
+  "slug": "10d-compressed-lower-wick-support",
+  "name_cn": "10日压缩下影线支撑",
+  "name_en": "10D Compressed Lower Wick Support",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "lower_wick",
+  "transform": "compress",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

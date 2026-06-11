@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195455,
+  "coverage": 0.9924848300200574,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.013634205456903893,
+  "ic_std_5d": 0.17864154479694908,
+  "icir_5d": -0.5418294877861568,
+  "ic_observations": 1402,
+  "long_short_mean_5d": -0.00037639354412250534,
+  "long_short_observations": 1402,
+  "turnover_top_quintile": 0.21752338462864773,
+  "factor_id": "R675",
+  "slug": "10d-volatility-scaled-range-ratio",
+  "name_cn": "10日波动缩放振幅占比",
+  "name_en": "10D Volatility Scaled Range Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "range_ratio",
+  "transform": "vol_scaled",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

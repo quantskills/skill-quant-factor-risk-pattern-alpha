@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195002,
+  "coverage": 0.9901845786680885,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.012626610767062854,
+  "ic_std_5d": 0.19042260742110512,
+  "icir_5d": 0.4707426562407795,
+  "ic_observations": 1399,
+  "long_short_mean_5d": 0.0014400549461157145,
+  "long_short_observations": 1399,
+  "turnover_top_quintile": 0.44116422259947957,
+  "factor_id": "R722",
+  "slug": "10d-stability-scaled-drawdown-from-high",
+  "name_cn": "10日稳定度缩放距高点回撤",
+  "name_en": "10D Stability Scaled Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "stability",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

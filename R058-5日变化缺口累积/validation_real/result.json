@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195751,
+  "coverage": 0.9939878640160459,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.0028416479462445433,
+  "ic_std_5d": 0.2037462336525659,
+  "icir_5d": 0.09901385069506342,
+  "ic_observations": 1404,
+  "long_short_mean_5d": 0.00046337482815176305,
+  "long_short_observations": 1404,
+  "turnover_top_quintile": 0.7701482021892467,
+  "factor_id": "R058",
+  "slug": "5d-delta-gap-sum",
+  "name_cn": "5日变化缺口累积",
+  "name_en": "5D Delta Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

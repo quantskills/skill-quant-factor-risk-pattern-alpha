@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195899,
+  "coverage": 0.9947393810140401,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.004037367934383822,
+  "ic_std_5d": 0.17518756090947452,
+  "icir_5d": 0.16361018343683795,
+  "ic_observations": 1405,
+  "long_short_mean_5d": 0.0013097163159740144,
+  "long_short_observations": 1405,
+  "turnover_top_quintile": 0.7154149730090114,
+  "factor_id": "R047",
+  "slug": "5d-delta-atr-ratio",
+  "name_cn": "5日变化ATR占比",
+  "name_en": "5D Delta ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "delta",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

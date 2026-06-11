@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.000682695116757027,
+  "ic_std_5d": 0.16601412417123346,
+  "icir_5d": 0.029194230057928483,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0015467245172018649,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.32059656773260753,
+  "factor_id": "R377",
+  "slug": "7d-time-series-ranked-atr-ratio",
+  "name_cn": "7日时序排名ATR占比",
+  "name_en": "7D Time-Series Ranked ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "rank",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

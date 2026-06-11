@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195307,
+  "coverage": 0.9917333130220631,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.013030197083452892,
+  "ic_std_5d": 0.18934546886054898,
+  "icir_5d": 0.48855260809220763,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.00034463067069545513,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.17329451094575646,
+  "factor_id": "R619",
+  "slug": "10d-smoothed-gap-sum",
+  "name_cn": "10日平滑缺口累积",
+  "name_en": "10D Smoothed Gap Sum",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "gap_sum",
+  "transform": "smooth",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

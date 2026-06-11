@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195287,
+  "coverage": 0.9916317566709828,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007334049165570177,
+  "ic_std_5d": 0.19457119379320945,
+  "icir_5d": 0.2675965695690928,
+  "ic_observations": 1401,
+  "long_short_mean_5d": 0.0005167572246645174,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.4857303290032451,
+  "factor_id": "R458",
+  "slug": "7d-stability-scaled-drawdown-from-high",
+  "name_cn": "7日稳定度缩放距高点回撤",
+  "name_en": "7D Stability Scaled Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "stability",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

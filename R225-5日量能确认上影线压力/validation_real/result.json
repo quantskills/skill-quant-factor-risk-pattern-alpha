@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195590,
+  "coverage": 0.9931703353898494,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.006986295095550571,
+  "ic_std_5d": 0.16168036849237227,
+  "icir_5d": 0.30676436150382475,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.002349450721354472,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.48598780986840695,
+  "factor_id": "R225",
+  "slug": "5d-volume-confirmed-upper-wick-pressure",
+  "name_cn": "5日量能确认上影线压力",
+  "name_en": "5D Volume Confirmed Upper Wick Pressure",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "upper_wick",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 5,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 5
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

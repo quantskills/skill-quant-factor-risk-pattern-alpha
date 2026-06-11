@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195591,
+  "coverage": 0.9931754132074034,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": 0.007194714095726486,
+  "ic_std_5d": 0.1631364479128317,
+  "icir_5d": 0.3130962073882057,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.0008545014599226013,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.48552368029979975,
+  "factor_id": "R490",
+  "slug": "7d-volume-confirmed-lower-wick-support",
+  "name_cn": "7日量能确认下影线支撑",
+  "name_en": "7D Volume Confirmed Lower Wick Support",
+  "category_cn": "形态",
+  "category_en": "Pattern",
+  "base": "lower_wick",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195603,
+  "coverage": 0.9932363470180516,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.02734902058770685,
+  "ic_std_5d": 0.21078047897301033,
+  "icir_5d": -0.9211421583716514,
+  "ic_observations": 1403,
+  "long_short_mean_5d": 0.001466377550935732,
+  "long_short_observations": 1403,
+  "turnover_top_quintile": 0.37941784583575633,
+  "factor_id": "R740",
+  "slug": "10d-volume-confirmed-atr-ratio",
+  "name_cn": "10日量能确认ATR占比",
+  "name_en": "10D Volume Confirmed ATR Ratio",
+  "category_cn": "波动率",
+  "category_en": "Volatility",
+  "base": "atr_ratio",
+  "transform": "confirm_volume",
+  "params": {
+    "window": 10,
+    "norm": 20,
+    "lag": 2,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 10
+  },
+  "no_future_check": true,
+  "status": "pass"
+}

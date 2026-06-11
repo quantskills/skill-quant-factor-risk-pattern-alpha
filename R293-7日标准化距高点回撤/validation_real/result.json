@@ -1,0 +1,35 @@
+{
+  "sample_rows": 196935,
+  "usable_rows": 195287,
+  "coverage": 0.9916317566709828,
+  "markets": {
+    "cn": 98,
+    "us": 50
+  },
+  "ic_mean_5d": -0.0006892939764535592,
+  "ic_std_5d": 0.19271918676821517,
+  "icir_5d": -0.025391876504421665,
+  "ic_observations": 1401,
+  "long_short_mean_5d": -0.00015583272727894947,
+  "long_short_observations": 1401,
+  "turnover_top_quintile": 0.4661561002093583,
+  "factor_id": "R293",
+  "slug": "7d-z-scored-drawdown-from-high",
+  "name_cn": "7日标准化距高点回撤",
+  "name_en": "7D Z-Scored Drawdown From High",
+  "category_cn": "回撤",
+  "category_en": "Drawdown",
+  "base": "drawdown",
+  "transform": "z",
+  "params": {
+    "window": 7,
+    "norm": 20,
+    "lag": 1,
+    "smooth": 3,
+    "skip": 5,
+    "fast": 3,
+    "slow": 7
+  },
+  "no_future_check": true,
+  "status": "pass"
+}
