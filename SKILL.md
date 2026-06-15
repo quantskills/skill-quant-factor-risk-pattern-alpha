@@ -1,6 +1,8 @@
 ---
 name: quant-factor-risk-pattern-alpha
-description: Use when selecting, inspecting, validating, or applying the QuantSkills risk-pattern OHLCV alpha factor collection, including volatility, candlestick pattern, oscillator, and drawdown factors; use for factor discovery, factor_index navigation, compute_factor usage, validation review, or mapping a risk-pattern alpha idea to a packaged factor Skill.
+description: Use when an agent needs a verified library of OHLCV risk-state and chart-pattern
+  alpha factor Skills for volatility, K-line shape, shock, drawdown, and pressure
+  analysis.
 license: GPL-3.0-only
 metadata:
   organization: QuantSkills
@@ -11,27 +13,46 @@ metadata:
   collection: quant-factor-risk-pattern-alpha
   creator: abgyjaguo
   maintainer: abgyjaguo
+quantSkills:
+  project_type: skill
+  category: factor
+  tags:
+  - alpha-factor
+  - risk-pattern
+  - ohlcv
+  - volatility
+  - drawdown
+  platforms:
+  - claude-code
+  - codex
+  - hermes
+  - openclaw
+  - cursor
+  status: stable
+  validation_level: verified
+  maintainer_type: official
+  summary_zh: 风险状态与形态类因子库：288 个独立 OHLCV 因子 Skill，真实行情验证 288/288 全部通过。
+  summary_en: Risk-state and chart-pattern OHLCV alpha factor library with 288 factor
+    Skills for volatility, K-line shape, shock, drawdown, and pressure analysis.
+  license: GPL-3.0
 ---
 
 # Quant Factor Risk Pattern Alpha
 
-Use this collection-level skill to navigate the packaged factor library before loading an individual factor skill.
+Use this skill when an agent needs to select, inspect, or apply OHLCV risk-state and chart-pattern alpha factor Skills from this repository.
 
 ## Workflow
 
-1. Read `factor_index.json` first to search by factor id, English slug, category, base signal, transform, formula, or path.
-2. Use `repo_summary.json` and `validation_summary_real.json` to understand collection-level coverage and real-market validation status.
-3. Pick a concrete factor folder under `factors/`, then read that factor's `SKILL.md` and `references/formula.md`.
-4. To apply a factor, import `compute_factor(df)` from the selected factor's `scripts/factor.py`; the input data must include `date`, `symbol`, `open`, `high`, `low`, `close`, and `volume`.
-5. To verify a selected factor, run `python scripts/validate.py` from inside the factor folder and compare the output with `validation_real/result.json` and `validation_real/report.md`.
-6. Preserve the original factor id and folder name in reports so users can trace results back to the packaged skill.
+1. Read [README.md](README.md) for the repository-level inventory, validation scope, and market sample.
+2. Use `factor_index.json` to locate the relevant factor family or individual factor directory.
+3. Open the selected factor folder under the factors directory and follow its local instructions before writing or running code.
+4. Treat validation metrics as historical research evidence, not investment advice. Re-run validation when the universe, time range, data vendor, or execution assumptions change.
 
 ## Scope
 
-This repository contains 288 standalone factor skills focused on volatility, candlestick pattern, oscillator, and drawdown OHLCV alpha factors. Each factor is framework-neutral and works on standard OHLCV data.
-
+This repository focuses on volatility state, K-line shape, shock patterns, drawdown pressure, and other risk or pattern signals built from OHLCV data.
 ## Agent Compatibility
 
-- Claude Code, Codex, Hermes, and OpenClaw can load this root folder as a collection skill, then drill into `factors/*/SKILL.md`.
-- Cursor should use `agents/cursor-rule.mdc` and keep the full repository under `.cursor/skills/quant-factor-risk-pattern-alpha`.
-- Agents without native skill discovery can paste `agents/portable-loader.md`.
+- Claude Code, Codex, Hermes, and OpenClaw can load this root folder as a collection skill, then drill into actors/*/SKILL.md.
+- Cursor should use gents/cursor-rule.mdc and keep the full repository under .cursor/skills/quant-factor-risk-pattern-alpha.
+- Agents without native skill discovery can paste gents/portable-loader.md.
